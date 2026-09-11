@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-11T16:47:15.276+08:00",
+  "updatedAt": "2026-09-11T17:23:09.582+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 26,
+    "description": "小阵雨",
+    "iconKey": "rain",
+    "tempC": 27,
     "feelsLikeC": 28,
-    "humidity": 55,
-    "windKph": 8,
-    "windDir": "东南风",
-    "place": "示例城市",
-    "observedAt": "2026-09-11T16:47:15.276+08:00",
-    "fetchedAt": "2026-09-11T16:47:15.276+08:00",
+    "humidity": 66,
+    "windKph": 14,
+    "windDir": "东东北风",
+    "place": "Pootung",
+    "observedAt": "2026-09-11T17:23:07.604+08:00",
+    "fetchedAt": "2026-09-11T17:23:09.582+08:00",
     "error": null
   },
   "quote": {
     "text": "把无人走过的路，踩成后来人的近路。",
-    "source": "开源演示"
+    "source": "示例"
   },
   "sources": {
     "claude": {
@@ -25,16 +25,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
-          "resetAt": "2026-09-11T19:47:15.277+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-09-11T18:30:00.474+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 21,
-          "resetAt": "2026-09-15T16:47:15.277+08:00"
+          "usedPct": 95,
+          "resetAt": "2026-09-13T16:00:00.474+08:00"
         }
       ],
-      "fetchedAt": "2026-09-11T16:47:15.276+08:00",
+      "fetchedAt": "2026-09-11T17:23:07.665+08:00",
       "error": null
     },
     "codex": {
@@ -43,48 +43,26 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 29,
-          "resetAt": "2026-09-16T16:47:15.277+08:00"
+          "usedPct": 92,
+          "resetAt": "2026-09-15T09:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-11T16:47:15.276+08:00",
+      "fetchedAt": "2026-09-11T17:23:07.727+08:00",
       "error": null
     },
     "claude84": {
-      "ok": true,
+      "ok": false,
       "label": "Claude · 84",
-      "windows": [
-        {
-          "name": "5小时",
-          "usedPct": 46,
-          "resetAt": "2026-09-11T19:47:15.277+08:00"
-        },
-        {
-          "name": "7天",
-          "usedPct": 55,
-          "resetAt": "2026-09-15T16:47:15.277+08:00"
-        }
-      ],
-      "fetchedAt": "2026-09-11T16:47:15.276+08:00",
-      "error": null
+      "windows": [],
+      "fetchedAt": "2026-09-11T17:23:07.728+08:00",
+      "error": "远端登录凭据已过期，需要在该机器上重新登录 Claude"
     },
     "claude72": {
-      "ok": true,
+      "ok": false,
       "label": "Claude · 72",
-      "windows": [
-        {
-          "name": "5小时",
-          "usedPct": 63,
-          "resetAt": "2026-09-11T19:47:15.277+08:00"
-        },
-        {
-          "name": "7天",
-          "usedPct": 72,
-          "resetAt": "2026-09-15T16:47:15.277+08:00"
-        }
-      ],
-      "fetchedAt": "2026-09-11T16:47:15.276+08:00",
-      "error": null
+      "windows": [],
+      "fetchedAt": "2026-09-11T17:23:07.730+08:00",
+      "error": "SSH 认证被拒（检查账号与密钥）"
     }
   },
   "providerTypes": {
