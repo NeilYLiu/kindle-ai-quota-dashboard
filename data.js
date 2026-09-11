@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-11T17:23:09.582+08:00",
+  "updatedAt": "2026-09-11T18:06:09.732+08:00",
   "weather": {
     "ok": true,
-    "description": "小阵雨",
-    "iconKey": "rain",
-    "tempC": 27,
-    "feelsLikeC": 28,
-    "humidity": 66,
-    "windKph": 14,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 26,
+    "feelsLikeC": 27,
+    "humidity": 68,
+    "windKph": 13,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-11T17:23:07.604+08:00",
-    "fetchedAt": "2026-09-11T17:23:09.582+08:00",
+    "observedAt": "2026-09-11T18:06:08.050+08:00",
+    "fetchedAt": "2026-09-11T18:06:09.732+08:00",
     "error": null
   },
   "quote": {
@@ -25,16 +25,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
-          "resetAt": "2026-09-11T18:30:00.474+08:00"
+          "usedPct": 7,
+          "resetAt": "2026-09-11T18:30:00.980+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 95,
-          "resetAt": "2026-09-13T16:00:00.474+08:00"
+          "usedPct": 96,
+          "resetAt": "2026-09-13T16:00:00.980+08:00"
         }
       ],
-      "fetchedAt": "2026-09-11T17:23:07.665+08:00",
+      "fetchedAt": "2026-09-11T18:06:08.089+08:00",
       "error": null
     },
     "codex": {
@@ -47,22 +47,22 @@ window.DASH_DATA = {
           "resetAt": "2026-09-15T09:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-11T17:23:07.727+08:00",
+      "fetchedAt": "2026-09-11T18:06:08.142+08:00",
       "error": null
     },
     "claude84": {
       "ok": false,
       "label": "Claude · 84",
       "windows": [],
-      "fetchedAt": "2026-09-11T17:23:07.728+08:00",
-      "error": "远端登录凭据已过期，需要在该机器上重新登录 Claude"
+      "fetchedAt": "2026-09-11T18:06:08.143+08:00",
+      "error": "远端还没有生成用量文件（agent 未安装或尚未首次运行）"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-11T17:23:07.730+08:00",
-      "error": "SSH 认证被拒（检查账号与密钥）"
+      "fetchedAt": "2026-09-11T18:06:08.144+08:00",
+      "error": "远端还没有生成用量文件（agent 未安装或尚未首次运行）"
     }
   },
   "providerTypes": {

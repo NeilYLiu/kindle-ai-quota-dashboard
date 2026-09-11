@@ -20,9 +20,9 @@ body { background: #FFFFFF; color: #000000; }
 .q-label, .q-refresh, .footer, .dt-meta, .dt-battery { color: #666666; }
 
 /* 两列兜底：老浏览器按 float 排版 */
-.top-grid, .quota-grid { width: 100%; }
-.top-grid:after, .quota-grid:after { content: ""; display: block; clear: both; }
-.top-grid > div, .quota-grid > div {
+.top-row, .quota-grid { width: 100%; }
+.top-row:after, .quota-grid:after { content: ""; display: block; clear: both; }
+.top-row > div, .quota-grid > div {
   float: left;
   width: 48%;
   margin: 0 1% 14px 1%;
@@ -30,12 +30,12 @@ body { background: #FFFFFF; color: #000000; }
 /* float 在 grid item 上会被忽略，但 width/margin 不会——所以必须显式撤销。
    老 WebKit 不认识 @supports，会整块跳过，因此兜底对它依然有效。 */
 @supports (display: grid) {
-  .top-grid > div, .quota-grid > div {
+  .top-row > div, .quota-grid > div {
     float: none;
     width: auto;
     margin: 0;
   }
-  .top-grid:after, .quota-grid:after { content: none; }
+  .top-row:after, .quota-grid:after { content: none; }
 }
 </style>
 <style>
