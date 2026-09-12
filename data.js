@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T18:08:42.695+08:00",
+  "updatedAt": "2026-09-12T18:18:55.763+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 11,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-12T18:08:34.454+08:00",
-    "fetchedAt": "2026-09-12T18:08:42.696+08:00",
+    "observedAt": "2026-09-12T18:18:47.590+08:00",
+    "fetchedAt": "2026-09-12T18:18:55.763+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-12T16:16:30.880+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T18:08:34.499+08:00"
+      "lastAttemptAt": "2026-09-12T18:18:47.633+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T18:08:34.561+08:00",
+      "fetchedAt": "2026-09-12T18:18:47.686+08:00",
       "error": null
     },
     "claude84": {
@@ -75,13 +75,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-11T19:13:17.302+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T18:08:34.564+08:00"
+      "lastAttemptAt": "2026-09-12T18:18:47.687+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T18:08:34.565+08:00",
+      "fetchedAt": "2026-09-12T18:18:47.688+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）"
     }
   },
