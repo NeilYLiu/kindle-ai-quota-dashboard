@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T18:18:55.763+08:00",
+  "updatedAt": "2026-09-12T18:29:08.865+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 11,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-12T18:18:47.590+08:00",
-    "fetchedAt": "2026-09-12T18:18:55.763+08:00",
+    "observedAt": "2026-09-12T18:29:00.605+08:00",
+    "fetchedAt": "2026-09-12T18:29:08.865+08:00",
     "error": null
   },
   "quote": {
@@ -25,24 +25,22 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
-          "resetAt": "2026-09-12T20:40:00.096+08:00"
+          "usedPct": 10,
+          "resetAt": "2026-09-12T20:40:00.214+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 98,
-          "resetAt": "2026-09-13T16:00:00.096+08:00"
+          "usedPct": 100,
+          "resetAt": "2026-09-13T16:00:00.214+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.097+08:00"
+          "resetAt": "2026-09-13T16:00:00.214+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T16:16:30.880+08:00",
-      "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-09-12T18:18:47.633+08:00"
+      "fetchedAt": "2026-09-12T18:29:00.646+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -54,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T18:18:47.686+08:00",
+      "fetchedAt": "2026-09-12T18:29:00.698+08:00",
       "error": null
     },
     "claude84": {
@@ -75,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-11T19:13:17.302+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T18:18:47.687+08:00"
+      "lastAttemptAt": "2026-09-12T18:29:00.700+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T18:18:47.688+08:00",
+      "fetchedAt": "2026-09-12T18:29:00.701+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）"
     }
   },
