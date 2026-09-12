@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T19:30:28.790+08:00",
+  "updatedAt": "2026-09-12T19:40:41.948+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东东北风",
     "place": "Yangpu",
-    "observedAt": "2026-09-12T19:30:20.624+08:00",
-    "fetchedAt": "2026-09-12T19:30:28.790+08:00",
+    "observedAt": "2026-09-12T19:40:33.768+08:00",
+    "fetchedAt": "2026-09-12T19:40:41.949+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 10,
-          "resetAt": "2026-09-12T20:40:00.367+08:00"
+          "resetAt": "2026-09-12T20:39:59.515+08:00"
         },
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.367+08:00"
+          "resetAt": "2026-09-13T15:59:59.515+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.367+08:00"
+          "resetAt": "2026-09-13T15:59:59.515+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T19:30:20.673+08:00",
+      "fetchedAt": "2026-09-12T19:40:33.806+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T19:30:20.730+08:00",
+      "fetchedAt": "2026-09-12T19:40:33.855+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-11T19:13:17.302+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T19:30:20.731+08:00"
+      "lastAttemptAt": "2026-09-12T19:40:33.856+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T19:30:20.732+08:00",
+      "fetchedAt": "2026-09-12T19:40:33.857+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）"
     }
   },
