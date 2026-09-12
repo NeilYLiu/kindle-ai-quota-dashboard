@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T20:31:46.965+08:00",
+  "updatedAt": "2026-09-12T20:41:59.633+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25,
+    "tempC": 24,
     "feelsLikeC": 26,
-    "humidity": 62,
-    "windKph": 9,
-    "windDir": "东东北风",
+    "humidity": 73,
+    "windKph": 6,
+    "windDir": "东风",
     "place": "Yangpu",
-    "observedAt": "2026-09-12T20:31:38.801+08:00",
-    "fetchedAt": "2026-09-12T20:31:46.965+08:00",
+    "observedAt": "2026-09-12T20:41:51.471+08:00",
+    "fetchedAt": "2026-09-12T20:41:59.633+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
-          "resetAt": "2026-09-12T20:40:00.173+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-09-12T20:41:52.592+08:00"
         },
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.173+08:00"
+          "resetAt": "2026-09-13T15:59:59.964+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.173+08:00"
+          "resetAt": "2026-09-13T15:59:59.964+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T20:31:38.832+08:00",
+      "fetchedAt": "2026-09-12T20:41:51.502+08:00",
       "error": null
     },
     "codex": {
@@ -48,11 +48,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T20:31:38.877+08:00",
+      "fetchedAt": "2026-09-12T20:41:51.548+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-11T19:13:17.302+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T20:31:38.880+08:00"
+      "lastAttemptAt": "2026-09-12T20:41:51.549+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T20:31:38.881+08:00",
+      "fetchedAt": "2026-09-12T20:41:51.550+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）"
     }
   },
