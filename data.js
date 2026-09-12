@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T15:45:13.103+08:00",
+  "updatedAt": "2026-09-12T15:46:22.754+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "东北风",
     "place": "Yangpu",
-    "observedAt": "2026-09-12T15:45:04.894+08:00",
-    "fetchedAt": "2026-09-12T15:45:13.104+08:00",
+    "observedAt": "2026-09-12T15:46:14.648+08:00",
+    "fetchedAt": "2026-09-12T15:46:22.754+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-12T20:39:59.880+08:00"
+          "resetAt": "2026-09-12T20:40:00.679+08:00"
         },
         {
           "name": "7天",
           "usedPct": 98,
-          "resetAt": "2026-09-13T15:59:59.880+08:00"
+          "resetAt": "2026-09-13T16:00:00.679+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-13T15:59:59.880+08:00"
+          "resetAt": "2026-09-13T15:59:59.679+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T15:45:04.932+08:00",
+      "fetchedAt": "2026-09-12T15:46:14.679+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-15T09:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T15:45:04.981+08:00",
+      "fetchedAt": "2026-09-12T15:46:14.731+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-11T19:13:17.302+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T15:45:04.982+08:00"
+      "lastAttemptAt": "2026-09-12T15:46:14.732+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T15:45:04.983+08:00",
+      "fetchedAt": "2026-09-12T15:46:14.733+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）"
     }
   },
