@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T15:34:59.849+08:00",
+  "updatedAt": "2026-09-12T15:45:03.129+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "东北风",
     "place": "Yangpu",
-    "observedAt": "2026-09-12T15:34:51.569+08:00",
-    "fetchedAt": "2026-09-12T15:34:59.849+08:00",
+    "observedAt": "2026-09-12T15:44:55.015+08:00",
+    "fetchedAt": "2026-09-12T15:45:03.129+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
-          "resetAt": "2026-09-12T15:40:00.118+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-09-12T20:40:00.066+08:00"
         },
         {
           "name": "7天",
           "usedPct": 98,
-          "resetAt": "2026-09-13T16:00:00.118+08:00"
+          "resetAt": "2026-09-13T16:00:00.066+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.119+08:00"
+          "resetAt": "2026-09-13T16:00:00.066+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T15:34:51.621+08:00",
+      "fetchedAt": "2026-09-12T15:44:55.049+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-15T09:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T15:34:51.673+08:00",
+      "fetchedAt": "2026-09-12T15:44:55.104+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-11T19:13:17.302+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-12T15:34:51.677+08:00"
+      "lastAttemptAt": "2026-09-12T15:44:55.106+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T15:34:51.678+08:00",
+      "fetchedAt": "2026-09-12T15:44:55.107+08:00",
       "error": "SSH 连接超时（机器不在线或网络不通）"
     }
   },
