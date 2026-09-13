@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T04:07:14.203+08:00",
+  "updatedAt": "2026-09-14T04:17:23.938+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-14T04:07:12.453+08:00",
-    "fetchedAt": "2026-09-14T04:07:14.203+08:00",
+    "observedAt": "2026-09-14T04:17:21.116+08:00",
+    "fetchedAt": "2026-09-14T04:17:23.938+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 8,
-          "resetAt": "2026-09-14T07:00:00.474+08:00"
+          "resetAt": "2026-09-14T07:00:00.209+08:00"
         },
         {
           "name": "7天",
           "usedPct": 16,
-          "resetAt": "2026-09-20T16:00:00.474+08:00"
+          "resetAt": "2026-09-20T16:00:00.209+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 19,
-          "resetAt": "2026-09-20T16:00:00.474+08:00"
+          "resetAt": "2026-09-20T16:00:00.209+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T04:07:12.490+08:00",
+      "fetchedAt": "2026-09-14T04:17:21.148+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T04:07:12.542+08:00",
+      "fetchedAt": "2026-09-14T04:17:21.198+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-14T01:25:06.692+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-14T04:07:12.544+08:00"
+      "lastAttemptAt": "2026-09-14T04:17:21.202+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-14T04:07:12.545+08:00",
+      "fetchedAt": "2026-09-14T04:17:21.203+08:00",
       "error": "钥匙串凭据中没有 accessToken"
     }
   },
