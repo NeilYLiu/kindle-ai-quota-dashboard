@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T21:22:53.263+08:00",
+  "updatedAt": "2026-09-13T20:56:08.387+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
+    "tempC": 25,
     "feelsLikeC": 26,
-    "humidity": 73,
-    "windKph": 6,
-    "windDir": "东风",
-    "place": "Yangpu",
-    "observedAt": "2026-09-12T21:22:45.145+08:00",
-    "fetchedAt": "2026-09-12T21:22:53.263+08:00",
+    "humidity": 66,
+    "windKph": 9,
+    "windDir": "东北风",
+    "place": "Pootung",
+    "observedAt": "2026-09-13T20:56:06.495+08:00",
+    "fetchedAt": "2026-09-13T20:56:08.387+08:00",
     "error": null
   },
   "quote": {
@@ -26,21 +26,23 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-12T21:22:46.273+08:00"
+          "resetAt": "2026-09-13T14:58:09.891+08:00"
         },
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.352+08:00"
+          "resetAt": "2026-09-13T16:00:00.020+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-13T16:00:00.353+08:00"
+          "resetAt": "2026-09-13T16:00:00.021+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T21:22:45.178+08:00",
-      "error": null
+      "fetchedAt": "2026-09-13T14:58:05.055+08:00",
+      "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-13T20:56:06.526+08:00"
     },
     "codex": {
       "ok": true,
@@ -48,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 7,
+          "usedPct": 15,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T21:22:45.228+08:00",
+      "fetchedAt": "2026-09-13T20:56:06.548+08:00",
       "error": null
     },
     "claude84": {
@@ -67,20 +69,18 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-14T20:59:59.747+08:00"
+          "resetAt": "2026-09-14T21:00:00.460+08:00"
         }
       ],
-      "fetchedAt": "2026-09-11T19:13:17.302+08:00",
-      "error": "SSH 连接超时（机器不在线或网络不通）",
-      "stale": true,
-      "lastAttemptAt": "2026-09-12T21:22:45.231+08:00"
+      "fetchedAt": "2026-09-13T20:56:06.549+08:00",
+      "error": null
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-12T21:22:45.232+08:00",
-      "error": "SSH 连接超时（机器不在线或网络不通）"
+      "fetchedAt": "2026-09-13T20:56:06.550+08:00",
+      "error": "钥匙串凭据中没有 accessToken"
     }
   },
   "providerTypes": {
