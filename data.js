@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T06:49:19.735+08:00",
+  "updatedAt": "2026-09-14T06:59:27.654+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-09-14T06:49:18.219+08:00",
-    "fetchedAt": "2026-09-14T06:49:19.735+08:00",
+    "observedAt": "2026-09-14T06:59:25.814+08:00",
+    "fetchedAt": "2026-09-14T06:59:27.654+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
-          "resetAt": "2026-09-14T07:00:00.291+08:00"
+          "usedPct": 19,
+          "resetAt": "2026-09-14T06:59:59.881+08:00"
         },
         {
           "name": "7天",
           "usedPct": 18,
-          "resetAt": "2026-09-20T16:00:00.291+08:00"
+          "resetAt": "2026-09-20T15:59:59.881+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 19,
-          "resetAt": "2026-09-20T16:00:00.291+08:00"
+          "resetAt": "2026-09-20T15:59:59.881+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T06:49:18.263+08:00",
+      "fetchedAt": "2026-09-14T06:59:25.854+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T06:49:18.321+08:00",
+      "fetchedAt": "2026-09-14T06:59:25.911+08:00",
       "error": null
     },
     "claude84": {
@@ -67,17 +67,17 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-14T21:00:00.127+08:00"
+          "resetAt": "2026-09-14T20:59:59.902+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T06:49:18.323+08:00",
+      "fetchedAt": "2026-09-14T06:59:25.913+08:00",
       "error": null
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-14T06:49:18.324+08:00",
+      "fetchedAt": "2026-09-14T06:59:25.914+08:00",
       "error": "钥匙串凭据中没有 accessToken"
     }
   },
