@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T03:16:34.908+08:00",
+  "updatedAt": "2026-09-14T03:26:42.461+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-14T03:16:32.966+08:00",
-    "fetchedAt": "2026-09-14T03:16:34.908+08:00",
+    "observedAt": "2026-09-14T03:26:40.937+08:00",
+    "fetchedAt": "2026-09-14T03:26:42.462+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
-          "resetAt": "2026-09-14T07:00:00.050+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-09-14T07:00:00.062+08:00"
         },
         {
           "name": "7天",
           "usedPct": 15,
-          "resetAt": "2026-09-20T16:00:00.050+08:00"
+          "resetAt": "2026-09-20T16:00:00.062+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 19,
-          "resetAt": "2026-09-20T16:00:00.050+08:00"
+          "resetAt": "2026-09-20T16:00:00.063+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T03:16:33.005+08:00",
+      "fetchedAt": "2026-09-14T03:26:40.974+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T03:16:33.062+08:00",
+      "fetchedAt": "2026-09-14T03:26:41.026+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-14T01:25:06.692+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-14T03:16:33.064+08:00"
+      "lastAttemptAt": "2026-09-14T03:26:41.028+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-14T03:16:33.065+08:00",
+      "fetchedAt": "2026-09-14T03:26:41.028+08:00",
       "error": "钥匙串凭据中没有 accessToken"
     }
   },
