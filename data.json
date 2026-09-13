@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-14T02:25:54.518+08:00",
+  "updatedAt": "2026-09-14T02:36:02.526+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 26,
-    "humidity": 73,
+    "tempC": 23,
+    "feelsLikeC": 25,
+    "humidity": 72,
     "windKph": 6,
     "windDir": "北东北风",
-    "place": "Hongkew",
-    "observedAt": "2026-09-14T02:25:52.840+08:00",
-    "fetchedAt": "2026-09-14T02:25:54.519+08:00",
+    "place": "Pootung",
+    "observedAt": "2026-09-14T02:36:00.809+08:00",
+    "fetchedAt": "2026-09-14T02:36:02.527+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
-          "resetAt": "2026-09-14T07:00:00.831+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-09-14T07:00:00.796+08:00"
         },
         {
           "name": "7天",
           "usedPct": 15,
-          "resetAt": "2026-09-20T16:00:00.831+08:00"
+          "resetAt": "2026-09-20T16:00:00.796+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 19,
-          "resetAt": "2026-09-20T15:59:59.831+08:00"
+          "resetAt": "2026-09-20T15:59:59.796+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T02:25:52.880+08:00",
+      "fetchedAt": "2026-09-14T02:36:00.848+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T02:25:52.933+08:00",
+      "fetchedAt": "2026-09-14T02:36:00.901+08:00",
       "error": null
     },
     "claude84": {
@@ -73,13 +73,13 @@
       "fetchedAt": "2026-09-14T01:25:06.692+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-14T02:25:52.936+08:00"
+      "lastAttemptAt": "2026-09-14T02:36:00.902+08:00"
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-14T02:25:52.937+08:00",
+      "fetchedAt": "2026-09-14T02:36:00.903+08:00",
       "error": "钥匙串凭据中没有 accessToken"
     }
   },
