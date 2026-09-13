@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T00:34:27.485+08:00",
+  "updatedAt": "2026-09-14T00:40:44.786+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "Pootung",
     "observedAt": "2026-09-14T00:34:25.898+08:00",
-    "fetchedAt": "2026-09-14T00:34:27.485+08:00",
+    "fetchedAt": "2026-09-14T00:40:44.786+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 33,
-          "resetAt": "2026-09-14T02:00:00.090+08:00"
+          "resetAt": "2026-09-14T02:00:00.243+08:00"
         },
         {
           "name": "7天",
           "usedPct": 13,
-          "resetAt": "2026-09-20T16:00:00.090+08:00"
+          "resetAt": "2026-09-20T16:00:00.243+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 18,
-          "resetAt": "2026-09-20T16:00:00.090+08:00"
+          "resetAt": "2026-09-20T16:00:00.243+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T00:34:25.938+08:00",
+      "fetchedAt": "2026-09-14T00:40:43.183+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T00:34:25.995+08:00",
+      "fetchedAt": "2026-09-14T00:40:43.229+08:00",
       "error": null
     },
     "claude84": {
@@ -67,17 +67,17 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-14T20:59:59.548+08:00"
+          "resetAt": "2026-09-14T21:00:00.397+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T00:34:25.996+08:00",
+      "fetchedAt": "2026-09-14T00:40:43.231+08:00",
       "error": null
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-14T00:34:25.997+08:00",
+      "fetchedAt": "2026-09-14T00:40:43.232+08:00",
       "error": "钥匙串凭据中没有 accessToken"
     }
   },
