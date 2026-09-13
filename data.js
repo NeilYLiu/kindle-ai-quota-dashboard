@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-13T21:31:37.341+08:00",
+  "updatedAt": "2026-09-13T21:41:45.283+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-13T21:31:35.640+08:00",
-    "fetchedAt": "2026-09-13T21:31:37.341+08:00",
+    "observedAt": "2026-09-13T21:41:43.390+08:00",
+    "fetchedAt": "2026-09-13T21:41:45.283+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
-          "resetAt": "2026-09-14T02:00:00.724+08:00"
+          "usedPct": 20,
+          "resetAt": "2026-09-14T02:00:00.444+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 10,
-          "resetAt": "2026-09-20T16:00:00.725+08:00"
+          "usedPct": 11,
+          "resetAt": "2026-09-20T16:00:00.444+08:00"
         },
         {
           "name": "Fable",
-          "usedPct": 15,
-          "resetAt": "2026-09-20T15:59:59.725+08:00"
+          "usedPct": 16,
+          "resetAt": "2026-09-20T16:00:00.444+08:00"
         }
       ],
-      "fetchedAt": "2026-09-13T21:31:35.695+08:00",
+      "fetchedAt": "2026-09-13T21:41:43.438+08:00",
       "error": null
     },
     "codex": {
@@ -48,11 +48,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 16,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-13T21:31:35.748+08:00",
+      "fetchedAt": "2026-09-13T21:41:43.501+08:00",
       "error": null
     },
     "claude84": {
@@ -67,17 +67,17 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-14T20:59:59.861+08:00"
+          "resetAt": "2026-09-14T21:00:00.013+08:00"
         }
       ],
-      "fetchedAt": "2026-09-13T21:31:35.750+08:00",
+      "fetchedAt": "2026-09-13T21:41:43.502+08:00",
       "error": null
     },
     "claude72": {
       "ok": false,
       "label": "Claude · 72",
       "windows": [],
-      "fetchedAt": "2026-09-13T21:31:35.752+08:00",
+      "fetchedAt": "2026-09-13T21:41:43.503+08:00",
       "error": "钥匙串凭据中没有 accessToken"
     }
   },
