@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T21:27:02.539+08:00",
+  "updatedAt": "2026-09-14T21:37:29.246+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北东北风",
     "place": "Pootung",
     "observedAt": "2026-09-14T17:38:09.946+08:00",
-    "fetchedAt": "2026-09-14T21:27:02.539+08:00",
+    "fetchedAt": "2026-09-14T21:37:29.247+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 39,
-          "resetAt": "2026-09-14T22:00:00.191+08:00"
+          "usedPct": 40,
+          "resetAt": "2026-09-14T22:00:00.329+08:00"
         },
         {
           "name": "7天",
           "usedPct": 65,
-          "resetAt": "2026-09-20T16:00:00.191+08:00"
+          "resetAt": "2026-09-20T16:00:00.329+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 68,
-          "resetAt": "2026-09-20T16:00:00.191+08:00"
+          "resetAt": "2026-09-20T16:00:00.329+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T21:27:00.159+08:00",
+      "fetchedAt": "2026-09-14T21:37:27.310+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T21:27:00.221+08:00",
+      "fetchedAt": "2026-09-14T21:37:27.359+08:00",
       "error": null
     },
     "claude84": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-21T21:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T21:27:00.224+08:00",
+      "fetchedAt": "2026-09-14T21:37:27.360+08:00",
       "error": null
     },
     "claude72": {
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-14T16:27:11.153+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-14T21:27:00.225+08:00"
+      "lastAttemptAt": "2026-09-14T21:37:27.361+08:00"
     }
   },
   "providerTypes": {
