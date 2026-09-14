@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T19:32:59.401+08:00",
+  "updatedAt": "2026-09-14T19:43:06.987+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北东北风",
     "place": "Pootung",
     "observedAt": "2026-09-14T17:38:09.946+08:00",
-    "fetchedAt": "2026-09-14T19:32:59.401+08:00",
+    "fetchedAt": "2026-09-14T19:43:06.988+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
-          "resetAt": "2026-09-14T22:00:00.754+08:00"
+          "usedPct": 24,
+          "resetAt": "2026-09-14T22:00:00.460+08:00"
         },
         {
           "name": "7天",
           "usedPct": 61,
-          "resetAt": "2026-09-20T16:00:00.754+08:00"
+          "resetAt": "2026-09-20T16:00:00.460+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 63,
-          "resetAt": "2026-09-20T16:00:00.754+08:00"
+          "resetAt": "2026-09-20T16:00:00.461+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T19:32:57.644+08:00",
+      "fetchedAt": "2026-09-14T19:43:05.338+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T19:32:57.708+08:00",
+      "fetchedAt": "2026-09-14T19:43:05.393+08:00",
       "error": null
     },
     "claude84": {
@@ -67,10 +67,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-14T21:00:00.223+08:00"
+          "resetAt": "2026-09-14T20:59:59.776+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T19:32:57.711+08:00",
+      "fetchedAt": "2026-09-14T19:43:05.394+08:00",
       "error": null
     },
     "claude72": {
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-14T16:27:11.153+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-14T19:32:57.712+08:00"
+      "lastAttemptAt": "2026-09-14T19:43:05.395+08:00"
     }
   },
   "providerTypes": {
