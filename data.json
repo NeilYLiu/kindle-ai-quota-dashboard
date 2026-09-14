@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-14T08:30:43.249+08:00",
+  "updatedAt": "2026-09-14T08:40:51.057+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 25,
-    "humidity": 66,
-    "windKph": 9,
-    "windDir": "北风",
-    "place": "Pootung",
-    "observedAt": "2026-09-14T08:30:41.367+08:00",
-    "fetchedAt": "2026-09-14T08:30:43.249+08:00",
+    "tempC": 26,
+    "feelsLikeC": 26,
+    "humidity": 59,
+    "windKph": 12,
+    "windDir": "北东北风",
+    "place": "Shanghaishih",
+    "observedAt": "2026-09-14T08:40:49.190+08:00",
+    "fetchedAt": "2026-09-14T08:40:51.058+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
-          "resetAt": "2026-09-14T12:00:00.433+08:00"
+          "usedPct": 64,
+          "resetAt": "2026-09-14T12:00:00.223+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 28,
-          "resetAt": "2026-09-20T16:00:00.433+08:00"
+          "usedPct": 30,
+          "resetAt": "2026-09-20T16:00:00.223+08:00"
         },
         {
           "name": "Fable",
-          "usedPct": 27,
-          "resetAt": "2026-09-20T16:00:00.433+08:00"
+          "usedPct": 28,
+          "resetAt": "2026-09-20T16:00:00.223+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T08:30:41.477+08:00",
+      "fetchedAt": "2026-09-14T08:40:49.238+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T08:30:41.579+08:00",
+      "fetchedAt": "2026-09-14T08:40:49.296+08:00",
       "error": null
     },
     "claude84": {
@@ -67,18 +67,29 @@
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-14T21:00:00.162+08:00"
+          "resetAt": "2026-09-14T21:00:00.116+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T08:30:41.581+08:00",
+      "fetchedAt": "2026-09-14T08:40:49.297+08:00",
       "error": null
     },
     "claude72": {
-      "ok": false,
+      "ok": true,
       "label": "Claude · 72",
-      "windows": [],
-      "fetchedAt": "2026-09-14T08:30:41.584+08:00",
-      "error": "钥匙串凭据中没有 accessToken"
+      "windows": [
+        {
+          "name": "5小时",
+          "usedPct": 38,
+          "resetAt": "2026-09-14T12:30:00.053+08:00"
+        },
+        {
+          "name": "7天",
+          "usedPct": 32,
+          "resetAt": "2026-09-20T20:00:00.053+08:00"
+        }
+      ],
+      "fetchedAt": "2026-09-14T08:40:49.299+08:00",
+      "error": null
     }
   },
   "providerTypes": {
