@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-15T23:22:11.937+08:00",
+  "updatedAt": "2026-09-15T23:32:34.402+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "Pootung",
     "observedAt": "2026-09-15T16:32:53.307+08:00",
-    "fetchedAt": "2026-09-15T23:22:11.937+08:00",
+    "fetchedAt": "2026-09-15T23:32:34.403+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
-          "resetAt": "2026-09-16T01:40:00.084+08:00"
+          "usedPct": 24,
+          "resetAt": "2026-09-16T01:40:00.123+08:00"
         },
         {
           "name": "7天",
           "usedPct": 96,
-          "resetAt": "2026-09-20T16:00:00.084+08:00"
+          "resetAt": "2026-09-20T16:00:00.123+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-20T16:00:00.085+08:00"
+          "resetAt": "2026-09-20T16:00:00.124+08:00"
         }
       ],
-      "fetchedAt": "2026-09-15T23:22:02.072+08:00",
+      "fetchedAt": "2026-09-15T23:32:18.135+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-15T23:22:02.134+08:00",
+      "fetchedAt": "2026-09-15T23:32:18.188+08:00",
       "error": null
     },
     "claude84": {
@@ -71,7 +71,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-15T23:22:02.136+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-15T23:32:18.189+08:00"
     },
     "claude72": {
       "ok": true,
@@ -89,7 +91,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-15T23:22:02.137+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-15T23:32:18.190+08:00"
     }
   },
   "providerTypes": {
