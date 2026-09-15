@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T13:46:57.159+08:00",
+  "updatedAt": "2026-09-15T13:57:11.273+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@
     "windKph": 16,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-15T13:46:45.455+08:00",
-    "fetchedAt": "2026-09-15T13:46:57.159+08:00",
+    "observedAt": "2026-09-15T13:57:02.996+08:00",
+    "fetchedAt": "2026-09-15T13:57:11.273+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-09-15T11:52:52.474+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-15T13:46:45.493+08:00"
+      "lastAttemptAt": "2026-09-15T13:57:03.039+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@
       "fetchedAt": "2026-09-15T11:52:52.520+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-15T13:46:45.548+08:00"
+      "lastAttemptAt": "2026-09-15T13:57:03.109+08:00"
     },
     "claude84": {
       "ok": true,
@@ -75,9 +75,9 @@
         }
       ],
       "fetchedAt": "2026-09-15T11:52:52.521+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
+      "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-15T13:46:45.550+08:00"
+      "lastAttemptAt": "2026-09-15T13:57:03.110+08:00"
     },
     "claude72": {
       "ok": true,
@@ -95,9 +95,9 @@
         }
       ],
       "fetchedAt": "2026-09-14T16:27:11.153+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
+      "error": "SSH 连接超时（机器不在线或网络不通）",
       "stale": true,
-      "lastAttemptAt": "2026-09-15T13:46:45.551+08:00"
+      "lastAttemptAt": "2026-09-15T13:57:03.111+08:00"
     }
   },
   "providerTypes": {
