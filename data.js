@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-15T21:50:03.156+08:00",
+  "updatedAt": "2026-09-15T22:00:16.225+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "Pootung",
     "observedAt": "2026-09-15T16:32:53.307+08:00",
-    "fetchedAt": "2026-09-15T21:50:03.157+08:00",
+    "fetchedAt": "2026-09-15T22:00:16.225+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 19,
-          "resetAt": "2026-09-16T01:40:00.330+08:00"
+          "resetAt": "2026-09-16T01:40:00.315+08:00"
         },
         {
           "name": "7天",
           "usedPct": 95,
-          "resetAt": "2026-09-20T16:00:00.330+08:00"
+          "resetAt": "2026-09-20T16:00:00.315+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-20T16:00:00.330+08:00"
+          "resetAt": "2026-09-20T16:00:00.315+08:00"
         }
       ],
-      "fetchedAt": "2026-09-15T21:49:56.487+08:00",
+      "fetchedAt": "2026-09-15T22:00:09.328+08:00",
       "error": null
     },
     "codex": {
@@ -48,11 +48,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 60,
+          "usedPct": 61,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-15T21:49:56.538+08:00",
+      "fetchedAt": "2026-09-15T22:00:09.378+08:00",
       "error": null
     },
     "claude84": {
@@ -61,16 +61,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
-          "resetAt": "2026-09-16T02:30:00.262+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-09-16T02:30:00.037+08:00"
         },
         {
           "name": "7天",
           "usedPct": 3,
-          "resetAt": "2026-09-21T21:00:00.262+08:00"
+          "resetAt": "2026-09-21T21:00:00.037+08:00"
         }
       ],
-      "fetchedAt": "2026-09-15T21:49:56.539+08:00",
+      "fetchedAt": "2026-09-15T22:00:09.379+08:00",
       "error": null
     },
     "claude72": {
@@ -85,10 +85,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-20T20:00:00.491+08:00"
+          "resetAt": "2026-09-20T20:00:00.033+08:00"
         }
       ],
-      "fetchedAt": "2026-09-15T21:49:56.540+08:00",
+      "fetchedAt": "2026-09-15T22:00:09.380+08:00",
       "error": null
     }
   },
