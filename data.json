@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:01:54.021+08:00",
+  "updatedAt": "2026-09-16T17:12:09.245+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@
     "windKph": 15,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-16T17:01:47.057+08:00",
-    "fetchedAt": "2026-09-16T17:01:54.022+08:00",
+    "observedAt": "2026-09-16T17:12:01.109+08:00",
+    "fetchedAt": "2026-09-16T17:12:09.245+08:00",
     "error": null
   },
   "quote": {
@@ -40,7 +40,9 @@
         }
       ],
       "fetchedAt": "2026-09-16T17:01:47.105+08:00",
-      "error": null
+      "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-16T17:12:01.153+08:00"
     },
     "codex": {
       "ok": true,
@@ -48,11 +50,11 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 77,
+          "usedPct": 78,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T17:01:47.159+08:00",
+      "fetchedAt": "2026-09-16T17:12:01.174+08:00",
       "error": null
     },
     "claude84": {
@@ -71,7 +73,9 @@
         }
       ],
       "fetchedAt": "2026-09-16T17:01:47.161+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-16T17:12:01.175+08:00"
     },
     "claude72": {
       "ok": true,
@@ -89,7 +93,9 @@
         }
       ],
       "fetchedAt": "2026-09-16T17:01:47.162+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-16T17:12:01.176+08:00"
     }
   },
   "providerTypes": {
