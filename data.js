@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-16T08:14:50.808+08:00",
+  "updatedAt": "2026-09-16T08:25:06.725+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "Pootung",
     "observedAt": "2026-09-15T16:32:53.307+08:00",
-    "fetchedAt": "2026-09-16T08:14:50.808+08:00",
+    "fetchedAt": "2026-09-16T08:25:06.726+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-16T02:46:49.160+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-16T08:14:42.759+08:00"
+      "lastAttemptAt": "2026-09-16T08:24:57.108+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T08:14:42.783+08:00",
+      "fetchedAt": "2026-09-16T08:24:57.133+08:00",
       "error": null
     },
     "claude84": {
@@ -69,13 +69,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 3,
-          "resetAt": "2026-09-21T20:59:59.993+08:00"
+          "resetAt": "2026-09-21T21:00:00.192+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T08:04:30.921+08:00",
-      "error": "SSH 连接超时（机器不在线或网络不通）",
-      "stale": true,
-      "lastAttemptAt": "2026-09-16T08:14:42.784+08:00"
+      "fetchedAt": "2026-09-16T08:24:57.134+08:00",
+      "error": null
     },
     "claude72": {
       "ok": true,
@@ -93,9 +91,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-16T00:34:02.214+08:00",
-      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-16T08:14:42.785+08:00"
+      "lastAttemptAt": "2026-09-16T08:24:57.135+08:00"
     }
   },
   "providerTypes": {
