@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-16T17:32:36.267+08:00",
+  "updatedAt": "2026-09-16T17:42:48.641+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 15,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-16T17:32:30.800+08:00",
-    "fetchedAt": "2026-09-16T17:32:36.267+08:00",
+    "observedAt": "2026-09-16T17:42:43.445+08:00",
+    "fetchedAt": "2026-09-16T17:42:48.641+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-16T17:01:47.105+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-16T17:32:30.839+08:00"
+      "lastAttemptAt": "2026-09-16T17:42:43.488+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 78,
+          "usedPct": 79,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T17:32:30.866+08:00",
+      "fetchedAt": "2026-09-16T17:42:43.515+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
-          "resetAt": "2026-09-16T19:39:59.941+08:00"
+          "usedPct": 22,
+          "resetAt": "2026-09-16T19:40:00.219+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 5,
-          "resetAt": "2026-09-21T20:59:58.941+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-09-21T20:59:59.219+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T17:32:30.867+08:00",
+      "fetchedAt": "2026-09-16T17:42:43.516+08:00",
       "error": null
     },
     "claude72": {
@@ -82,15 +82,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-16T22:19:59.758+08:00"
+          "resetAt": "2026-09-16T22:20:00.327+08:00"
         },
         {
           "name": "7天",
           "usedPct": 69,
-          "resetAt": "2026-09-20T19:59:59.758+08:00"
+          "resetAt": "2026-09-20T19:59:59.327+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T17:32:30.868+08:00",
+      "fetchedAt": "2026-09-16T17:42:43.517+08:00",
       "error": null
     }
   },
