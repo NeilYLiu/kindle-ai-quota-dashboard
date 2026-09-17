@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-17T11:20:25.870+08:00",
+  "updatedAt": "2026-09-17T11:30:33.580+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-09-17T11:20:24.124+08:00",
-    "fetchedAt": "2026-09-17T11:20:25.871+08:00",
+    "observedAt": "2026-09-17T11:30:31.869+08:00",
+    "fetchedAt": "2026-09-17T11:30:33.580+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-16T20:36:36.317+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-17T11:20:24.162+08:00"
+      "lastAttemptAt": "2026-09-17T11:30:31.905+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-17T11:20:24.190+08:00",
+      "fetchedAt": "2026-09-17T11:30:31.932+08:00",
       "error": null
     },
     "claude84": {
@@ -63,19 +63,17 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
-          "resetAt": "2026-09-17T00:39:59.846+08:00"
+          "usedPct": 0,
+          "resetAt": null
         },
         {
           "name": "7天",
           "usedPct": 8,
-          "resetAt": "2026-09-21T21:00:00.846+08:00"
+          "resetAt": "2026-09-21T20:59:58.900+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T20:36:36.373+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-09-17T11:20:24.191+08:00"
+      "fetchedAt": "2026-09-17T11:30:31.933+08:00",
+      "error": null
     },
     "claude72": {
       "ok": true,
@@ -95,7 +93,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-16T20:36:36.374+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-17T11:20:24.192+08:00"
+      "lastAttemptAt": "2026-09-17T11:30:31.934+08:00"
     }
   },
   "providerTypes": {
