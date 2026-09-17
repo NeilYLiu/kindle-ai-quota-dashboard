@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-16T20:36:44.013+08:00",
+  "updatedAt": "2026-09-17T09:19:40.321+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "Pootung",
     "observedAt": "2026-09-16T20:36:36.284+08:00",
-    "fetchedAt": "2026-09-16T20:36:44.013+08:00",
+    "fetchedAt": "2026-09-17T09:19:40.322+08:00",
     "error": null
   },
   "quote": {
@@ -40,7 +40,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-16T20:36:36.317+08:00",
-      "error": null
+      "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-17T09:19:32.239+08:00"
     },
     "codex": {
       "ok": true,
@@ -53,7 +55,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-16T20:36:36.371+08:00",
-      "error": null
+      "error": "Codex 额度采集失败（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-17T09:19:32.271+08:00"
     },
     "claude84": {
       "ok": true,
@@ -71,7 +75,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-16T20:36:36.373+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-17T09:19:32.272+08:00"
     },
     "claude72": {
       "ok": true,
@@ -89,7 +95,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-16T20:36:36.374+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-17T09:19:32.273+08:00"
     }
   },
   "providerTypes": {
