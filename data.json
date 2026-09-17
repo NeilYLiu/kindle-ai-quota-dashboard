@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-17T13:32:05.890+08:00",
+  "updatedAt": "2026-09-17T13:42:14.035+08:00",
   "weather": {
     "ok": true,
-    "description": "局部阵雨",
-    "iconKey": "rain",
-    "tempC": 27,
+    "description": "阴",
+    "iconKey": "cloudy",
+    "tempC": 28,
     "feelsLikeC": 28,
-    "humidity": 53,
-    "windKph": 16,
+    "humidity": 48,
+    "windKph": 15,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-09-17T13:32:03.922+08:00",
-    "fetchedAt": "2026-09-17T13:32:05.890+08:00",
+    "observedAt": "2026-09-17T13:42:12.130+08:00",
+    "fetchedAt": "2026-09-17T13:42:14.035+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-09-16T20:36:36.317+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-17T13:32:03.961+08:00"
+      "lastAttemptAt": "2026-09-17T13:42:12.180+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 88,
+          "usedPct": 89,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-17T13:32:03.985+08:00",
+      "fetchedAt": "2026-09-17T13:42:12.209+08:00",
       "error": null
     },
     "claude84": {
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": null
+          "resetAt": "2026-09-17T18:30:00.325+08:00"
         },
         {
           "name": "7天",
           "usedPct": 8,
-          "resetAt": "2026-09-21T20:59:59.470+08:00"
+          "resetAt": "2026-09-21T20:59:59.325+08:00"
         }
       ],
-      "fetchedAt": "2026-09-17T13:32:03.986+08:00",
+      "fetchedAt": "2026-09-17T13:42:12.211+08:00",
       "error": null
     },
     "claude72": {
@@ -81,19 +81,17 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
-          "resetAt": "2026-09-16T22:20:00.791+08:00"
+          "usedPct": 93,
+          "resetAt": "2026-09-17T15:20:00.920+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 70,
-          "resetAt": "2026-09-20T20:00:00.791+08:00"
+          "usedPct": 92,
+          "resetAt": "2026-09-20T19:59:59.920+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T20:36:36.374+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-09-17T13:32:03.987+08:00"
+      "fetchedAt": "2026-09-17T13:42:12.212+08:00",
+      "error": null
     }
   },
   "providerTypes": {
