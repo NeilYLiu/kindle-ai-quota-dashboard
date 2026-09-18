@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-18T11:57:44.285+08:00",
+  "updatedAt": "2026-09-18T12:07:58.514+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
     "iconKey": "rain",
-    "tempC": 27,
-    "feelsLikeC": 29,
-    "humidity": 71,
-    "windKph": 10,
+    "tempC": 26,
+    "feelsLikeC": 28,
+    "humidity": 72,
+    "windKph": 13,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-18T11:57:37.461+08:00",
-    "fetchedAt": "2026-09-18T11:57:44.285+08:00",
+    "observedAt": "2026-09-18T12:07:50.773+08:00",
+    "fetchedAt": "2026-09-18T12:07:58.514+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-17T20:57:53.708+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-18T11:57:37.496+08:00"
+      "lastAttemptAt": "2026-09-18T12:07:50.814+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 97,
+          "usedPct": 98,
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-18T11:57:37.518+08:00",
+      "fetchedAt": "2026-09-18T12:07:50.839+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
-          "resetAt": "2026-09-18T16:00:00.784+08:00"
+          "usedPct": 23,
+          "resetAt": "2026-09-18T16:00:00.140+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 24,
-          "resetAt": "2026-09-21T20:59:59.784+08:00"
+          "usedPct": 25,
+          "resetAt": "2026-09-21T21:00:00.140+08:00"
         }
       ],
-      "fetchedAt": "2026-09-18T11:57:37.519+08:00",
+      "fetchedAt": "2026-09-18T12:07:50.841+08:00",
       "error": null
     },
     "claude72": {
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-17T20:57:53.766+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-18T11:57:37.520+08:00"
+      "lastAttemptAt": "2026-09-18T12:07:50.842+08:00"
     }
   },
   "providerTypes": {
