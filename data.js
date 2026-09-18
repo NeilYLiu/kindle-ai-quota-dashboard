@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-18T13:29:50.017+08:00",
+  "updatedAt": "2026-09-18T13:40:03.936+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
     "iconKey": "rain",
-    "tempC": 26,
-    "feelsLikeC": 28,
-    "humidity": 72,
-    "windKph": 13,
+    "tempC": 28,
+    "feelsLikeC": 30,
+    "humidity": 63,
+    "windKph": 14,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-18T13:29:45.016+08:00",
-    "fetchedAt": "2026-09-18T13:29:50.018+08:00",
+    "observedAt": "2026-09-18T13:39:56.358+08:00",
+    "fetchedAt": "2026-09-18T13:40:03.936+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-18T13:29:46.239+08:00"
+          "resetAt": "2026-09-18T13:39:57.669+08:00"
         },
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-20T15:59:59.024+08:00"
+          "resetAt": "2026-09-20T15:59:59.381+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-20T16:00:00.024+08:00"
+          "resetAt": "2026-09-20T16:00:00.381+08:00"
         }
       ],
-      "fetchedAt": "2026-09-18T13:29:45.050+08:00",
+      "fetchedAt": "2026-09-18T13:39:56.399+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-18T13:29:45.106+08:00",
+      "fetchedAt": "2026-09-18T13:39:56.451+08:00",
       "error": null
     },
     "claude84": {
@@ -62,15 +62,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-09-18T16:00:00.458+08:00"
+          "resetAt": "2026-09-18T16:00:00.261+08:00"
         },
         {
           "name": "7天",
           "usedPct": 31,
-          "resetAt": "2026-09-21T21:00:00.458+08:00"
+          "resetAt": "2026-09-21T21:00:00.261+08:00"
         }
       ],
-      "fetchedAt": "2026-09-18T13:29:45.108+08:00",
+      "fetchedAt": "2026-09-18T13:39:56.453+08:00",
       "error": null
     },
     "claude72": {
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-17T20:57:53.766+08:00",
       "error": "钥匙串凭据中没有 accessToken",
       "stale": true,
-      "lastAttemptAt": "2026-09-18T13:29:45.109+08:00"
+      "lastAttemptAt": "2026-09-18T13:39:56.454+08:00"
     }
   },
   "providerTypes": {
