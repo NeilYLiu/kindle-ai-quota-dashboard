@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-19T15:35:48.216+08:00",
+  "updatedAt": "2026-09-19T15:45:55.909+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 15,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-19T15:35:46.570+08:00",
-    "fetchedAt": "2026-09-19T15:35:48.216+08:00",
+    "observedAt": "2026-09-19T15:45:54.367+08:00",
+    "fetchedAt": "2026-09-19T15:45:55.909+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-19T15:35:47.647+08:00"
+          "resetAt": "2026-09-19T15:45:55.514+08:00"
         },
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-20T15:59:59.492+08:00"
+          "resetAt": "2026-09-20T15:59:59.351+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 100,
-          "resetAt": "2026-09-20T16:00:00.492+08:00"
+          "resetAt": "2026-09-20T16:00:00.352+08:00"
         }
       ],
-      "fetchedAt": "2026-09-19T15:35:46.614+08:00",
+      "fetchedAt": "2026-09-19T15:45:54.420+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-19T16:15:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-19T15:35:46.670+08:00",
+      "fetchedAt": "2026-09-19T15:45:54.468+08:00",
       "error": null
     },
     "claude84": {
@@ -67,10 +67,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 31,
-          "resetAt": "2026-09-21T20:59:59.365+08:00"
+          "resetAt": "2026-09-21T20:59:59.568+08:00"
         }
       ],
-      "fetchedAt": "2026-09-19T15:35:46.671+08:00",
+      "fetchedAt": "2026-09-19T15:45:54.469+08:00",
       "error": null
     },
     "claude72": {
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-17T20:57:53.766+08:00",
       "error": "钥匙串凭据中没有 accessToken",
       "stale": true,
-      "lastAttemptAt": "2026-09-19T15:35:46.672+08:00"
+      "lastAttemptAt": "2026-09-19T15:45:54.470+08:00"
     }
   },
   "providerTypes": {
