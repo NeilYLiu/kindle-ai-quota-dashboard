@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-21T17:36:35.349+08:00",
+  "updatedAt": "2026-09-21T17:46:43.143+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 18,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-21T17:36:33.489+08:00",
-    "fetchedAt": "2026-09-21T17:36:35.350+08:00",
+    "observedAt": "2026-09-21T17:46:41.310+08:00",
+    "fetchedAt": "2026-09-21T17:46:43.143+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 82,
-          "resetAt": "2026-09-21T17:40:00.462+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-09-21T22:40:00.335+08:00"
         },
         {
           "name": "7天",
           "usedPct": 88,
-          "resetAt": "2026-09-27T16:00:00.462+08:00"
+          "resetAt": "2026-09-27T16:00:00.335+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 62,
-          "resetAt": "2026-09-27T16:00:00.462+08:00"
+          "resetAt": "2026-09-27T16:00:00.335+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T17:36:33.542+08:00",
+      "fetchedAt": "2026-09-21T17:46:41.359+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-26T16:31:24.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T17:36:33.603+08:00",
+      "fetchedAt": "2026-09-21T17:46:41.415+08:00",
       "error": null
     },
     "claude84": {
@@ -67,10 +67,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 62,
-          "resetAt": "2026-09-21T20:59:59.385+08:00"
+          "resetAt": "2026-09-21T20:59:59.379+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T17:36:33.605+08:00",
+      "fetchedAt": "2026-09-21T17:46:41.417+08:00",
       "error": null
     },
     "claude72": {
@@ -79,16 +79,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 90,
-          "resetAt": "2026-09-21T17:40:00.447+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-09-21T22:40:00.607+08:00"
         },
         {
           "name": "7天",
           "usedPct": 73,
-          "resetAt": "2026-09-27T20:00:01.447+08:00"
+          "resetAt": "2026-09-27T20:00:01.607+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T17:36:33.606+08:00",
+      "fetchedAt": "2026-09-21T17:46:41.418+08:00",
       "error": null
     }
   },
