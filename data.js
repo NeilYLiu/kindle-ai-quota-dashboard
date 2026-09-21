@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-21T14:34:07.894+08:00",
+  "updatedAt": "2026-09-21T14:44:15.499+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 14,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-21T14:34:05.474+08:00",
-    "fetchedAt": "2026-09-21T14:34:07.895+08:00",
+    "observedAt": "2026-09-21T14:44:13.907+08:00",
+    "fetchedAt": "2026-09-21T14:44:15.500+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 32,
-          "resetAt": "2026-09-21T17:40:00.370+08:00"
+          "usedPct": 37,
+          "resetAt": "2026-09-21T17:40:00.841+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 77,
-          "resetAt": "2026-09-27T16:00:00.370+08:00"
+          "usedPct": 78,
+          "resetAt": "2026-09-27T16:00:00.841+08:00"
         },
         {
           "name": "Fable",
-          "usedPct": 51,
-          "resetAt": "2026-09-27T16:00:00.370+08:00"
+          "usedPct": 52,
+          "resetAt": "2026-09-27T16:00:00.841+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T14:34:05.509+08:00",
+      "fetchedAt": "2026-09-21T14:44:13.948+08:00",
       "error": null
     },
     "codex": {
@@ -48,11 +48,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 97,
-          "resetAt": "2026-09-26T16:31:25.000+08:00"
+          "usedPct": 98,
+          "resetAt": "2026-09-26T16:31:24.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T14:34:05.559+08:00",
+      "fetchedAt": "2026-09-21T14:44:14.004+08:00",
       "error": null
     },
     "claude84": {
@@ -73,7 +73,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-21T11:01:13.192+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-21T14:34:05.561+08:00"
+      "lastAttemptAt": "2026-09-21T14:44:14.008+08:00"
     },
     "claude72": {
       "ok": true,
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-21T10:51:05.110+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-21T14:34:05.562+08:00"
+      "lastAttemptAt": "2026-09-21T14:44:14.009+08:00"
     }
   },
   "providerTypes": {
