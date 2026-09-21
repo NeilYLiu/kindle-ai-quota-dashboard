@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-22T07:07:57.886+08:00",
+  "updatedAt": "2026-09-22T07:18:06.243+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-09-22T07:07:56.079+08:00",
-    "fetchedAt": "2026-09-22T07:07:57.886+08:00",
+    "observedAt": "2026-09-22T07:18:04.079+08:00",
+    "fetchedAt": "2026-09-22T07:18:06.245+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-22T02:03:38.577+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-22T07:07:56.116+08:00"
+      "lastAttemptAt": "2026-09-22T07:18:04.120+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-26T16:31:24.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-22T07:07:56.143+08:00",
+      "fetchedAt": "2026-09-22T07:18:04.146+08:00",
       "error": null
     },
     "claude84": {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-28T21:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-22T07:07:56.143+08:00",
+      "fetchedAt": "2026-09-22T07:18:04.147+08:00",
       "error": null
     },
     "claude72": {
@@ -82,15 +82,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-09-22T08:39:59.523+08:00"
+          "resetAt": "2026-09-22T08:39:59.678+08:00"
         },
         {
           "name": "7天",
           "usedPct": 92,
-          "resetAt": "2026-09-27T20:00:00.523+08:00"
+          "resetAt": "2026-09-27T20:00:00.678+08:00"
         }
       ],
-      "fetchedAt": "2026-09-22T07:07:56.144+08:00",
+      "fetchedAt": "2026-09-22T07:18:04.148+08:00",
       "error": null
     }
   },
