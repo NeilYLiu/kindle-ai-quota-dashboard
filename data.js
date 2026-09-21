@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-21T09:30:01.711+08:00",
+  "updatedAt": "2026-09-21T09:40:09.640+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 12,
     "windDir": "北风",
     "place": "Yangpu",
-    "observedAt": "2026-09-21T09:30:00.092+08:00",
-    "fetchedAt": "2026-09-21T09:30:01.711+08:00",
+    "observedAt": "2026-09-21T09:40:07.834+08:00",
+    "fetchedAt": "2026-09-21T09:40:09.642+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
-          "resetAt": "2026-09-21T12:40:00.966+08:00"
+          "usedPct": 46,
+          "resetAt": "2026-09-21T12:40:00.961+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 57,
-          "resetAt": "2026-09-27T16:00:00.966+08:00"
+          "usedPct": 58,
+          "resetAt": "2026-09-27T16:00:00.962+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 34,
-          "resetAt": "2026-09-27T15:59:59.966+08:00"
+          "resetAt": "2026-09-27T16:00:00.962+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T09:30:00.134+08:00",
+      "fetchedAt": "2026-09-21T09:40:07.872+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-26T16:31:24.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T09:30:00.179+08:00",
+      "fetchedAt": "2026-09-21T09:40:07.928+08:00",
       "error": null
     },
     "claude84": {
@@ -67,10 +67,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 62,
-          "resetAt": "2026-09-21T20:59:59.023+08:00"
+          "resetAt": "2026-09-21T20:59:59.447+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T09:30:00.181+08:00",
+      "fetchedAt": "2026-09-21T09:40:07.930+08:00",
       "error": null
     },
     "claude72": {
@@ -79,16 +79,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 42,
-          "resetAt": "2026-09-21T12:40:00.514+08:00"
+          "usedPct": 46,
+          "resetAt": "2026-09-21T12:40:00.016+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 34,
-          "resetAt": "2026-09-27T20:00:01.514+08:00"
+          "usedPct": 35,
+          "resetAt": "2026-09-27T20:00:01.016+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T09:30:00.181+08:00",
+      "fetchedAt": "2026-09-21T09:40:07.931+08:00",
       "error": null
     }
   },
