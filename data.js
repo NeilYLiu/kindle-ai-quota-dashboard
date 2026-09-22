@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-23T07:48:13.484+08:00",
+  "updatedAt": "2026-09-23T07:58:23.628+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 8,
     "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-09-23T07:48:11.638+08:00",
-    "fetchedAt": "2026-09-23T07:48:13.484+08:00",
+    "observedAt": "2026-09-23T07:58:19.711+08:00",
+    "fetchedAt": "2026-09-23T07:58:23.628+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-22T02:03:38.577+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-23T07:48:11.678+08:00"
+      "lastAttemptAt": "2026-09-23T07:58:19.751+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T07:48:11.702+08:00",
+      "fetchedAt": "2026-09-23T07:58:19.782+08:00",
       "error": null
     },
     "claude84": {
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 0,
-          "resetAt": "2026-09-28T21:00:00.048+08:00"
+          "resetAt": "2026-09-28T21:00:00.356+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T07:48:11.704+08:00",
+      "fetchedAt": "2026-09-23T07:58:19.783+08:00",
       "error": null
     },
     "claude72": {
@@ -81,16 +81,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-09-23T12:39:59.950+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-09-23T12:39:59.916+08:00"
         },
         {
           "name": "7天",
           "usedPct": 0,
-          "resetAt": "2026-09-27T19:59:59.950+08:00"
+          "resetAt": "2026-09-27T19:59:59.916+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T07:48:11.705+08:00",
+      "fetchedAt": "2026-09-23T07:58:19.784+08:00",
       "error": null
     }
   },
