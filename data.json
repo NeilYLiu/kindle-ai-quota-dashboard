@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:45:14.838+08:00",
+  "updatedAt": "2026-09-23T16:55:22.594+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@
     "windKph": 14,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-09-23T16:45:13.116+08:00",
-    "fetchedAt": "2026-09-23T16:45:14.838+08:00",
+    "observedAt": "2026-09-23T16:55:20.783+08:00",
+    "fetchedAt": "2026-09-23T16:55:22.594+08:00",
     "error": null
   },
   "quote": {
@@ -40,7 +40,9 @@
         }
       ],
       "fetchedAt": "2026-09-23T16:45:13.157+08:00",
-      "error": null
+      "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-23T16:55:20.820+08:00"
     },
     "codex": {
       "ok": true,
@@ -48,11 +50,11 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 40,
+          "usedPct": 41,
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T16:45:13.206+08:00",
+      "fetchedAt": "2026-09-23T16:55:20.876+08:00",
       "error": null
     },
     "claude84": {
@@ -73,7 +75,7 @@
       "fetchedAt": "2026-09-23T16:24:57.885+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-23T16:45:13.207+08:00"
+      "lastAttemptAt": "2026-09-23T16:55:20.878+08:00"
     },
     "claude72": {
       "ok": true,
@@ -81,16 +83,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 99,
-          "resetAt": "2026-09-23T17:39:59.714+08:00"
+          "usedPct": 100,
+          "resetAt": "2026-09-23T17:39:59.664+08:00"
         },
         {
           "name": "7天",
           "usedPct": 53,
-          "resetAt": "2026-09-27T19:59:59.714+08:00"
+          "resetAt": "2026-09-27T19:59:59.664+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T16:45:13.208+08:00",
+      "fetchedAt": "2026-09-23T16:55:20.880+08:00",
       "error": null
     }
   },
