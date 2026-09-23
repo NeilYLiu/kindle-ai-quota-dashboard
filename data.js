@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-23T13:32:47.224+08:00",
+  "updatedAt": "2026-09-23T13:42:55.430+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
+    "description": "阴",
     "iconKey": "cloudy",
-    "tempC": 30,
+    "tempC": 29,
     "feelsLikeC": 30,
-    "humidity": 46,
-    "windKph": 16,
+    "humidity": 47,
+    "windKph": 17,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-09-23T13:32:45.543+08:00",
-    "fetchedAt": "2026-09-23T13:32:47.225+08:00",
+    "observedAt": "2026-09-23T13:42:53.557+08:00",
+    "fetchedAt": "2026-09-23T13:42:55.430+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-23T12:11:43.296+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-23T13:32:45.584+08:00"
+      "lastAttemptAt": "2026-09-23T13:42:53.593+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 21,
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T13:32:45.640+08:00",
+      "fetchedAt": "2026-09-23T13:42:53.646+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 65,
-          "resetAt": "2026-09-23T13:39:59.800+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-09-23T18:40:00.168+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 6,
-          "resetAt": "2026-09-28T20:59:59.800+08:00"
+          "usedPct": 7,
+          "resetAt": "2026-09-28T21:00:00.168+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T13:32:45.641+08:00",
+      "fetchedAt": "2026-09-23T13:42:53.647+08:00",
       "error": null
     },
     "claude72": {
@@ -81,16 +81,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
-          "resetAt": "2026-09-23T17:40:00.504+08:00"
+          "usedPct": 47,
+          "resetAt": "2026-09-23T17:40:00.490+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 38,
-          "resetAt": "2026-09-27T20:00:00.504+08:00"
+          "usedPct": 39,
+          "resetAt": "2026-09-27T20:00:00.490+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T13:32:45.642+08:00",
+      "fetchedAt": "2026-09-23T13:42:53.648+08:00",
       "error": null
     }
   },
