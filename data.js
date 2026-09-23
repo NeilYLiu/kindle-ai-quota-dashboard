@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-24T03:54:28.118+08:00",
+  "updatedAt": "2026-09-24T04:04:36.310+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 5,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-09-24T03:54:26.473+08:00",
-    "fetchedAt": "2026-09-24T03:54:28.118+08:00",
+    "observedAt": "2026-09-24T04:04:34.552+08:00",
+    "fetchedAt": "2026-09-24T04:04:36.311+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-24T00:11:23.346+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-24T03:54:26.505+08:00"
+      "lastAttemptAt": "2026-09-24T04:04:34.596+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T03:54:26.531+08:00",
+      "fetchedAt": "2026-09-24T04:04:34.619+08:00",
       "error": null
     },
     "claude84": {
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 13,
-          "resetAt": "2026-09-24T04:40:00.424+08:00"
+          "resetAt": "2026-09-24T04:39:59.864+08:00"
         },
         {
           "name": "7天",
           "usedPct": 23,
-          "resetAt": "2026-09-28T21:00:00.424+08:00"
+          "resetAt": "2026-09-28T20:59:59.864+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T03:54:26.532+08:00",
+      "fetchedAt": "2026-09-24T04:04:34.621+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 78,
-          "resetAt": "2026-09-27T20:00:00.085+08:00"
+          "resetAt": "2026-09-27T19:59:59.959+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T03:54:26.533+08:00",
+      "fetchedAt": "2026-09-24T04:04:34.621+08:00",
       "error": null
     }
   },
