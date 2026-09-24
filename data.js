@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-25T03:14:11.144+08:00",
+  "updatedAt": "2026-09-25T03:24:18.487+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 24,
     "feelsLikeC": 27,
-    "humidity": 83,
-    "windKph": 9,
+    "humidity": 88,
+    "windKph": 8,
     "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-09-25T03:14:09.700+08:00",
-    "fetchedAt": "2026-09-25T03:14:11.145+08:00",
+    "observedAt": "2026-09-25T03:24:16.997+08:00",
+    "fetchedAt": "2026-09-25T03:24:18.487+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 15,
-          "resetAt": "2026-09-25T05:19:59.671+08:00"
+          "resetAt": "2026-09-25T05:19:59.930+08:00"
         },
         {
           "name": "7天",
           "usedPct": 97,
-          "resetAt": "2026-09-27T15:59:59.671+08:00"
+          "resetAt": "2026-09-27T15:59:59.930+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 40,
-          "resetAt": "2026-09-27T15:59:59.671+08:00"
+          "resetAt": "2026-09-27T15:59:59.930+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T03:14:09.730+08:00",
+      "fetchedAt": "2026-09-25T03:24:17.025+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T03:14:09.773+08:00",
+      "fetchedAt": "2026-09-25T03:24:17.069+08:00",
       "error": null
     },
     "claude84": {
@@ -71,9 +71,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-24T21:59:22.234+08:00",
-      "error": "用量接口返回 HTTP 401",
+      "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-09-25T03:14:09.774+08:00"
+      "lastAttemptAt": "2026-09-25T03:24:17.070+08:00"
     },
     "claude72": {
       "ok": true,
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T19:59:59.555+08:00"
+          "resetAt": "2026-09-27T19:59:59.528+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T03:14:09.775+08:00",
+      "fetchedAt": "2026-09-25T03:24:17.071+08:00",
       "error": null
     }
   },
