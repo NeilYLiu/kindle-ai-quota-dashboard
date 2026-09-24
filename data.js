@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-24T17:55:55.753+08:00",
+  "updatedAt": "2026-09-24T18:06:06.884+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 18,
     "windDir": "东风",
     "place": "Hongkew",
-    "observedAt": "2026-09-24T17:55:53.714+08:00",
-    "fetchedAt": "2026-09-24T17:55:55.753+08:00",
+    "observedAt": "2026-09-24T18:06:02.014+08:00",
+    "fetchedAt": "2026-09-24T18:06:06.884+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-24T17:35:36.799+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-24T17:55:53.758+08:00"
+      "lastAttemptAt": "2026-09-24T18:06:02.061+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T17:55:53.777+08:00",
+      "fetchedAt": "2026-09-24T18:06:02.082+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-24T16:24:38.210+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-24T17:55:53.778+08:00"
+      "lastAttemptAt": "2026-09-24T18:06:02.084+08:00"
     },
     "claude72": {
       "ok": true,
@@ -95,7 +95,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-24T17:25:28.507+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-24T17:55:53.779+08:00"
+      "lastAttemptAt": "2026-09-24T18:06:02.085+08:00"
     }
   },
   "providerTypes": {
