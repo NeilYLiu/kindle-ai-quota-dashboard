@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-24T21:28:58.775+08:00",
+  "updatedAt": "2026-09-24T21:39:07.709+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-09-24T21:28:56.937+08:00",
-    "fetchedAt": "2026-09-24T21:28:58.775+08:00",
+    "observedAt": "2026-09-24T21:39:05.567+08:00",
+    "fetchedAt": "2026-09-24T21:39:07.709+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-24T20:48:24.359+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-24T21:28:56.987+08:00"
+      "lastAttemptAt": "2026-09-24T21:39:05.616+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T21:28:57.040+08:00",
+      "fetchedAt": "2026-09-24T21:39:05.672+08:00",
       "error": null
     },
     "claude84": {
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 27,
-          "resetAt": "2026-09-28T20:59:59.657+08:00"
+          "resetAt": "2026-09-28T21:00:00.228+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T21:28:57.041+08:00",
+      "fetchedAt": "2026-09-24T21:39:05.675+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T20:00:00.208+08:00"
+          "resetAt": "2026-09-27T19:59:59.953+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T21:28:57.042+08:00",
+      "fetchedAt": "2026-09-24T21:39:05.676+08:00",
       "error": null
     }
   },
