@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-25T21:08:32.460+08:00",
+  "updatedAt": "2026-09-25T21:18:40.740+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
+    "description": "阴",
     "iconKey": "cloudy",
-    "tempC": 27,
-    "feelsLikeC": 29,
-    "humidity": 68,
-    "windKph": 12,
+    "tempC": 26,
+    "feelsLikeC": 28,
+    "humidity": 73,
+    "windKph": 8,
     "windDir": "南东南风",
     "place": "Pootung",
-    "observedAt": "2026-09-25T21:08:29.546+08:00",
-    "fetchedAt": "2026-09-25T21:08:32.460+08:00",
+    "observedAt": "2026-09-25T21:18:38.629+08:00",
+    "fetchedAt": "2026-09-25T21:18:40.740+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-25T19:57:31.627+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-25T21:08:29.593+08:00"
+      "lastAttemptAt": "2026-09-25T21:18:38.673+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T21:08:29.616+08:00",
+      "fetchedAt": "2026-09-25T21:18:38.696+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
-          "resetAt": "2026-09-26T00:29:59.993+08:00"
+          "usedPct": 97,
+          "resetAt": "2026-09-26T00:29:59.981+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 41,
-          "resetAt": "2026-09-28T20:59:59.993+08:00"
+          "usedPct": 42,
+          "resetAt": "2026-09-28T20:59:59.981+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T21:08:29.618+08:00",
+      "fetchedAt": "2026-09-25T21:18:38.697+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T19:59:59.852+08:00"
+          "resetAt": "2026-09-27T19:59:59.685+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T21:08:29.619+08:00",
+      "fetchedAt": "2026-09-25T21:18:38.698+08:00",
       "error": null
     }
   },
