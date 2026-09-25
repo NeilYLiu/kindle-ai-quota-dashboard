@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-25T16:45:05.532+08:00",
+  "updatedAt": "2026-09-25T16:55:13.254+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "晴",
+    "iconKey": "clear",
     "tempC": 31,
-    "feelsLikeC": 34,
-    "humidity": 52,
-    "windKph": 13,
+    "feelsLikeC": 33,
+    "humidity": 49,
+    "windKph": 14,
     "windDir": "南风",
-    "place": "Hongkew",
-    "observedAt": "2026-09-25T16:45:03.736+08:00",
-    "fetchedAt": "2026-09-25T16:45:05.532+08:00",
+    "place": "Yangpu",
+    "observedAt": "2026-09-25T16:55:11.482+08:00",
+    "fetchedAt": "2026-09-25T16:55:13.255+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 3,
-          "resetAt": "2026-09-25T17:49:59.748+08:00"
+          "resetAt": "2026-09-25T17:50:00.551+08:00"
         },
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T15:59:59.748+08:00"
+          "resetAt": "2026-09-27T16:00:00.551+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 40,
-          "resetAt": "2026-09-27T15:59:59.748+08:00"
+          "resetAt": "2026-09-27T16:00:00.552+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T16:45:03.785+08:00",
+      "fetchedAt": "2026-09-25T16:55:11.533+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T16:45:03.838+08:00",
+      "fetchedAt": "2026-09-25T16:55:11.586+08:00",
       "error": null
     },
     "claude84": {
@@ -73,7 +73,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-25T16:34:55.905+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-25T16:45:03.840+08:00"
+      "lastAttemptAt": "2026-09-25T16:55:11.587+08:00"
     },
     "claude72": {
       "ok": true,
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T19:59:59.640+08:00"
+          "resetAt": "2026-09-27T20:00:00.432+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T16:45:03.841+08:00",
+      "fetchedAt": "2026-09-25T16:55:11.588+08:00",
       "error": null
     }
   },
