@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-25T21:28:48.739+08:00",
+  "updatedAt": "2026-09-25T21:38:56.962+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 8,
     "windDir": "南东南风",
     "place": "Pootung",
-    "observedAt": "2026-09-25T21:28:47.127+08:00",
-    "fetchedAt": "2026-09-25T21:28:48.739+08:00",
+    "observedAt": "2026-09-25T21:38:55.185+08:00",
+    "fetchedAt": "2026-09-25T21:38:56.962+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-25T19:57:31.627+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-25T21:28:47.181+08:00"
+      "lastAttemptAt": "2026-09-25T21:38:55.237+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T21:28:47.207+08:00",
+      "fetchedAt": "2026-09-25T21:38:55.265+08:00",
       "error": null
     },
     "claude84": {
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-09-26T00:30:00.060+08:00"
+          "resetAt": "2026-09-26T00:30:00.334+08:00"
         },
         {
           "name": "7天",
           "usedPct": 42,
-          "resetAt": "2026-09-28T21:00:00.060+08:00"
+          "resetAt": "2026-09-28T21:00:00.334+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T21:28:47.208+08:00",
+      "fetchedAt": "2026-09-25T21:38:55.267+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T19:59:59.541+08:00"
+          "resetAt": "2026-09-27T20:00:00.474+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T21:28:47.209+08:00",
+      "fetchedAt": "2026-09-25T21:38:55.268+08:00",
       "error": null
     }
   },
