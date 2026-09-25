@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-25T08:38:28.372+08:00",
+  "updatedAt": "2026-09-25T08:48:37.165+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-09-25T08:38:26.594+08:00",
-    "fetchedAt": "2026-09-25T08:38:28.374+08:00",
+    "observedAt": "2026-09-25T08:48:34.206+08:00",
+    "fetchedAt": "2026-09-25T08:48:37.165+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
-          "resetAt": "2026-09-25T12:49:59.642+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-09-25T12:50:00.148+08:00"
         },
         {
           "name": "7天",
           "usedPct": 98,
-          "resetAt": "2026-09-27T15:59:59.642+08:00"
+          "resetAt": "2026-09-27T16:00:00.148+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 40,
-          "resetAt": "2026-09-27T15:59:59.643+08:00"
+          "resetAt": "2026-09-27T16:00:00.149+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T08:38:26.644+08:00",
+      "fetchedAt": "2026-09-25T08:48:34.253+08:00",
       "error": null
     },
     "codex": {
@@ -49,10 +49,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 71,
-          "resetAt": "2026-09-30T07:40:40.000+08:00"
+          "resetAt": "2026-09-30T07:40:41.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-25T08:38:26.693+08:00",
+      "fetchedAt": "2026-09-25T08:48:34.303+08:00",
       "error": null
     },
     "claude84": {
@@ -67,13 +67,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 27,
-          "resetAt": "2026-09-28T21:00:00.249+08:00"
+          "resetAt": "2026-09-28T20:59:59.939+08:00"
         }
       ],
-      "fetchedAt": "2026-09-24T21:59:22.234+08:00",
-      "error": "钥匙串凭据中没有 accessToken",
-      "stale": true,
-      "lastAttemptAt": "2026-09-25T08:38:26.694+08:00"
+      "fetchedAt": "2026-09-25T08:48:34.305+08:00",
+      "error": null
     },
     "claude72": {
       "ok": true,
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-25T03:44:32.249+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-25T08:38:26.695+08:00"
+      "lastAttemptAt": "2026-09-25T08:48:34.305+08:00"
     }
   },
   "providerTypes": {
