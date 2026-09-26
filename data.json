@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-27T04:47:19.571+08:00",
+  "updatedAt": "2026-09-27T04:57:26.873+08:00",
   "weather": {
     "ok": true,
-    "description": "小阵雨",
+    "description": "中阵雨",
     "iconKey": "rain",
     "tempC": 24,
     "feelsLikeC": 28,
-    "humidity": 95,
+    "humidity": 96,
     "windKph": 5,
     "windDir": "东风",
-    "place": "Yangpu",
-    "observedAt": "2026-09-27T04:47:17.803+08:00",
-    "fetchedAt": "2026-09-27T04:47:19.571+08:00",
+    "place": "Pootung",
+    "observedAt": "2026-09-27T04:57:25.370+08:00",
+    "fetchedAt": "2026-09-27T04:57:26.873+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-09-27T04:06:43.370+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-27T04:47:17.839+08:00"
+      "lastAttemptAt": "2026-09-27T04:57:25.409+08:00"
     },
     "codex": {
       "ok": true,
@@ -51,10 +51,10 @@
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-04T04:47:19.000+08:00"
+          "resetAt": "2026-10-04T04:57:26.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T04:47:17.862+08:00",
+      "fetchedAt": "2026-09-27T04:57:25.436+08:00",
       "error": null
     },
     "claude84": {
@@ -69,10 +69,10 @@
         {
           "name": "7天",
           "usedPct": 43,
-          "resetAt": "2026-09-28T21:00:00.099+08:00"
+          "resetAt": "2026-09-28T21:00:00.347+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T04:47:17.863+08:00",
+      "fetchedAt": "2026-09-27T04:57:25.437+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T20:00:00.195+08:00"
+          "resetAt": "2026-09-27T20:00:00.102+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T04:47:17.864+08:00",
+      "fetchedAt": "2026-09-27T04:57:25.438+08:00",
       "error": null
     }
   },
