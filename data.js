@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-27T04:06:44.907+08:00",
+  "updatedAt": "2026-09-27T04:16:53.103+08:00",
   "weather": {
     "ok": true,
     "description": "小阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 5,
     "windDir": "东风",
     "place": "Yangpu",
-    "observedAt": "2026-09-27T04:06:43.328+08:00",
-    "fetchedAt": "2026-09-27T04:06:44.907+08:00",
+    "observedAt": "2026-09-27T04:16:50.740+08:00",
+    "fetchedAt": "2026-09-27T04:16:53.103+08:00",
     "error": null
   },
   "quote": {
@@ -40,7 +40,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-27T04:06:43.370+08:00",
-      "error": null
+      "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-27T04:16:50.781+08:00"
     },
     "codex": {
       "ok": true,
@@ -49,10 +51,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-04T04:06:44.000+08:00"
+          "resetAt": "2026-10-04T04:16:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T04:06:43.428+08:00",
+      "fetchedAt": "2026-09-27T04:16:50.819+08:00",
       "error": null
     },
     "claude84": {
@@ -67,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 43,
-          "resetAt": "2026-09-28T20:59:59.645+08:00"
+          "resetAt": "2026-09-28T20:59:59.824+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T04:06:43.430+08:00",
+      "fetchedAt": "2026-09-27T04:16:50.820+08:00",
       "error": null
     },
     "claude72": {
@@ -85,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T20:00:00.180+08:00"
+          "resetAt": "2026-09-27T20:00:00.213+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T04:06:43.430+08:00",
+      "fetchedAt": "2026-09-27T04:16:50.821+08:00",
       "error": null
     }
   },
