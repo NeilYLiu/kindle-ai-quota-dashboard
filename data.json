@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-26T16:47:53.444+08:00",
+  "updatedAt": "2026-09-26T16:58:01.188+08:00",
   "weather": {
     "ok": true,
     "description": "小阵雨",
     "iconKey": "rain",
-    "tempC": 24,
-    "feelsLikeC": 27,
-    "humidity": 91,
+    "tempC": 23,
+    "feelsLikeC": 26,
+    "humidity": 93,
     "windKph": 8,
     "windDir": "西北风",
     "place": "Pootung",
-    "observedAt": "2026-09-26T16:47:51.828+08:00",
-    "fetchedAt": "2026-09-26T16:47:53.445+08:00",
+    "observedAt": "2026-09-26T16:57:59.443+08:00",
+    "fetchedAt": "2026-09-26T16:58:01.188+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-09-26T05:36:19.459+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-26T16:47:51.871+08:00"
+      "lastAttemptAt": "2026-09-26T16:57:59.484+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-26T16:47:51.894+08:00",
+      "fetchedAt": "2026-09-26T16:57:59.509+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-09-26T15:03:52.303+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-26T16:47:51.895+08:00"
+      "lastAttemptAt": "2026-09-26T16:57:59.510+08:00"
     },
     "claude72": {
       "ok": true,
@@ -89,10 +89,10 @@
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T20:00:00.048+08:00"
+          "resetAt": "2026-09-27T19:59:59.905+08:00"
         }
       ],
-      "fetchedAt": "2026-09-26T16:47:51.896+08:00",
+      "fetchedAt": "2026-09-26T16:57:59.511+08:00",
       "error": null
     }
   },
