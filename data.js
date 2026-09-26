@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-26T17:08:05.776+08:00",
+  "updatedAt": "2026-09-26T17:18:14.786+08:00",
   "weather": {
     "ok": true,
     "description": "小阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 8,
     "windDir": "西北风",
     "place": "Pootung",
-    "observedAt": "2026-09-26T16:57:59.443+08:00",
-    "fetchedAt": "2026-09-26T17:08:05.776+08:00",
+    "observedAt": "2026-09-26T17:18:12.970+08:00",
+    "fetchedAt": "2026-09-26T17:18:14.787+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-26T05:36:19.459+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-26T17:08:05.690+08:00"
+      "lastAttemptAt": "2026-09-26T17:18:13.002+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,10 +54,8 @@ window.DASH_DATA = {
           "resetAt": "2026-09-30T07:40:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-26T16:57:59.509+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-09-26T17:08:05.715+08:00"
+      "fetchedAt": "2026-09-26T17:18:13.029+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -75,9 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-26T15:03:52.303+08:00",
-      "error": "取回用量文件失败",
+      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-26T17:08:05.716+08:00"
+      "lastAttemptAt": "2026-09-26T17:18:13.031+08:00"
     },
     "claude72": {
       "ok": true,
@@ -91,13 +89,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-09-27T19:59:59.905+08:00"
+          "resetAt": "2026-09-27T20:00:00.038+08:00"
         }
       ],
-      "fetchedAt": "2026-09-26T16:57:59.511+08:00",
-      "error": "取回用量文件失败",
-      "stale": true,
-      "lastAttemptAt": "2026-09-26T17:08:05.717+08:00"
+      "fetchedAt": "2026-09-26T17:18:13.032+08:00",
+      "error": null
     }
   },
   "providerTypes": {
