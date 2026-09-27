@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-27T23:52:29.580+08:00",
+  "updatedAt": "2026-09-28T00:02:38.918+08:00",
   "weather": {
     "ok": true,
     "description": "薄雾",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 7,
     "windDir": "北风",
     "place": "Hongkew",
-    "observedAt": "2026-09-27T23:52:27.407+08:00",
-    "fetchedAt": "2026-09-27T23:52:29.580+08:00",
+    "observedAt": "2026-09-28T00:02:36.916+08:00",
+    "fetchedAt": "2026-09-28T00:02:38.919+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-27T18:28:10.142+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-27T23:52:27.455+08:00"
+      "lastAttemptAt": "2026-09-28T00:02:36.953+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T08:00:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T23:52:27.512+08:00",
+      "fetchedAt": "2026-09-28T00:02:37.005+08:00",
       "error": null
     },
     "claude84": {
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 53,
-          "resetAt": "2026-09-28T20:59:59.533+08:00"
+          "resetAt": "2026-09-28T21:00:00.389+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T23:52:27.514+08:00",
+      "fetchedAt": "2026-09-28T00:02:37.006+08:00",
       "error": null
     },
     "claude72": {
@@ -82,15 +82,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-09-28T01:00:00.219+08:00"
+          "resetAt": "2026-09-28T01:00:00.294+08:00"
         },
         {
           "name": "7天",
           "usedPct": 27,
-          "resetAt": "2026-10-04T20:00:00.220+08:00"
+          "resetAt": "2026-10-04T20:00:00.294+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T23:52:27.515+08:00",
+      "fetchedAt": "2026-09-28T00:02:37.007+08:00",
       "error": null
     }
   },
