@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-28T12:33:26.516+08:00",
+  "updatedAt": "2026-09-28T12:43:34.338+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 15,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-28T12:33:24.486+08:00",
-    "fetchedAt": "2026-09-28T12:33:26.516+08:00",
+    "observedAt": "2026-09-28T12:43:32.235+08:00",
+    "fetchedAt": "2026-09-28T12:43:34.338+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-28T10:31:22.146+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-28T12:33:24.530+08:00"
+      "lastAttemptAt": "2026-09-28T12:43:32.269+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T08:00:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T12:33:24.585+08:00",
+      "fetchedAt": "2026-09-28T12:43:32.321+08:00",
       "error": null
     },
     "claude84": {
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 14,
-          "resetAt": "2026-09-28T14:09:59.978+08:00"
+          "resetAt": "2026-09-28T14:10:00.082+08:00"
         },
         {
           "name": "7天",
           "usedPct": 55,
-          "resetAt": "2026-09-28T20:59:59.978+08:00"
+          "resetAt": "2026-09-28T21:00:00.083+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T12:33:24.586+08:00",
+      "fetchedAt": "2026-09-28T12:43:32.323+08:00",
       "error": null
     },
     "claude72": {
@@ -81,19 +81,17 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
-          "resetAt": "2026-09-28T16:00:00.506+08:00"
+          "usedPct": 21,
+          "resetAt": "2026-09-28T16:00:00.003+08:00"
         },
         {
           "name": "7天",
           "usedPct": 44,
-          "resetAt": "2026-10-04T20:00:00.506+08:00"
+          "resetAt": "2026-10-04T20:00:00.003+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T12:23:11.886+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-09-28T12:33:24.587+08:00"
+      "fetchedAt": "2026-09-28T12:43:32.324+08:00",
+      "error": null
     }
   },
   "providerTypes": {
