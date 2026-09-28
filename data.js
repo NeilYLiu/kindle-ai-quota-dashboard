@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-28T22:43:00.306+08:00",
+  "updatedAt": "2026-09-28T22:53:08.703+08:00",
   "weather": {
     "ok": true,
-    "description": "局部阵雨",
-    "iconKey": "rain",
-    "tempC": 25,
-    "feelsLikeC": 26,
-    "humidity": 78,
+    "description": "阴",
+    "iconKey": "cloudy",
+    "tempC": 24,
+    "feelsLikeC": 24,
+    "humidity": 73,
     "windKph": 16,
     "windDir": "东东北风",
-    "place": "Pootung",
-    "observedAt": "2026-09-28T22:42:58.315+08:00",
-    "fetchedAt": "2026-09-28T22:43:00.306+08:00",
+    "place": "Hongkew",
+    "observedAt": "2026-09-28T22:53:06.728+08:00",
+    "fetchedAt": "2026-09-28T22:53:08.703+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 47,
-          "resetAt": "2026-09-28T23:40:00.321+08:00"
+          "resetAt": "2026-09-28T23:39:59.833+08:00"
         },
         {
           "name": "7天",
           "usedPct": 71,
-          "resetAt": "2026-10-04T16:00:00.321+08:00"
+          "resetAt": "2026-10-04T15:59:59.833+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 26,
-          "resetAt": "2026-10-04T16:00:00.321+08:00"
+          "resetAt": "2026-10-04T15:59:59.833+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T22:42:58.355+08:00",
+      "fetchedAt": "2026-09-28T22:53:06.777+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T08:00:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T22:42:58.410+08:00",
+      "fetchedAt": "2026-09-28T22:53:06.837+08:00",
       "error": null
     },
     "claude84": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-05T21:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T22:42:58.411+08:00",
+      "fetchedAt": "2026-09-28T22:53:06.839+08:00",
       "error": null
     },
     "claude72": {
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-28T20:30:58.847+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-28T22:42:58.412+08:00"
+      "lastAttemptAt": "2026-09-28T22:53:06.839+08:00"
     }
   },
   "providerTypes": {
