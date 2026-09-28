@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-28T10:31:24.412+08:00",
+  "updatedAt": "2026-09-28T10:41:34.135+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 14,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-28T10:31:22.112+08:00",
-    "fetchedAt": "2026-09-28T10:31:24.412+08:00",
+    "observedAt": "2026-09-28T10:41:30.347+08:00",
+    "fetchedAt": "2026-09-28T10:41:34.135+08:00",
     "error": null
   },
   "quote": {
@@ -40,7 +40,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-28T10:31:22.146+08:00",
-      "error": null
+      "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-09-28T10:41:30.395+08:00"
     },
     "codex": {
       "ok": true,
@@ -52,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T08:00:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T10:31:22.202+08:00",
+      "fetchedAt": "2026-09-28T10:41:30.443+08:00",
       "error": null
     },
     "claude84": {
@@ -62,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 5,
-          "resetAt": "2026-09-28T14:09:59.920+08:00"
+          "resetAt": "2026-09-28T14:10:00.199+08:00"
         },
         {
           "name": "7天",
           "usedPct": 54,
-          "resetAt": "2026-09-28T20:59:59.920+08:00"
+          "resetAt": "2026-09-28T21:00:00.200+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T10:31:22.203+08:00",
+      "fetchedAt": "2026-09-28T10:41:30.444+08:00",
       "error": null
     },
     "claude72": {
@@ -79,16 +81,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
-          "resetAt": "2026-09-28T11:00:00.818+08:00"
+          "usedPct": 39,
+          "resetAt": "2026-09-28T11:00:00.510+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 37,
-          "resetAt": "2026-10-04T20:00:00.818+08:00"
+          "usedPct": 38,
+          "resetAt": "2026-10-04T20:00:00.510+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T10:31:22.205+08:00",
+      "fetchedAt": "2026-09-28T10:41:30.445+08:00",
       "error": null
     }
   },
