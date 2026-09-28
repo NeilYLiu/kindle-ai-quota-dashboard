@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-28T23:23:36.115+08:00",
+  "updatedAt": "2026-09-28T23:33:44.991+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 16,
     "windDir": "东东北风",
     "place": "Hongkew",
-    "observedAt": "2026-09-28T23:23:33.814+08:00",
-    "fetchedAt": "2026-09-28T23:23:36.115+08:00",
+    "observedAt": "2026-09-28T23:33:42.669+08:00",
+    "fetchedAt": "2026-09-28T23:33:44.991+08:00",
     "error": null
   },
   "quote": {
@@ -26,20 +26,20 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 47,
-          "resetAt": "2026-09-28T23:39:59.822+08:00"
+          "resetAt": "2026-09-28T23:39:59.746+08:00"
         },
         {
           "name": "7天",
           "usedPct": 71,
-          "resetAt": "2026-10-04T15:59:59.822+08:00"
+          "resetAt": "2026-10-04T15:59:59.746+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 26,
-          "resetAt": "2026-10-04T15:59:59.823+08:00"
+          "resetAt": "2026-10-04T15:59:59.746+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T23:23:33.860+08:00",
+      "fetchedAt": "2026-09-28T23:33:42.718+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T08:00:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T23:23:33.912+08:00",
+      "fetchedAt": "2026-09-28T23:33:42.776+08:00",
       "error": null
     },
     "claude84": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-05T21:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T23:23:33.914+08:00",
+      "fetchedAt": "2026-09-28T23:33:42.778+08:00",
       "error": null
     },
     "claude72": {
@@ -79,19 +79,17 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
-          "resetAt": "2026-09-28T21:00:00.114+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-09-29T03:50:00.310+08:00"
         },
         {
           "name": "7天",
           "usedPct": 74,
-          "resetAt": "2026-10-04T20:00:00.114+08:00"
+          "resetAt": "2026-10-04T20:00:00.310+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T20:30:58.847+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-09-28T23:23:33.915+08:00"
+      "fetchedAt": "2026-09-28T23:33:42.779+08:00",
+      "error": null
     }
   },
   "providerTypes": {
