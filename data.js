@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-29T14:39:17.353+08:00",
+  "updatedAt": "2026-09-29T14:49:29.135+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-29T14:39:14.621+08:00",
-    "fetchedAt": "2026-09-29T14:39:17.353+08:00",
+    "observedAt": "2026-09-29T14:49:23.292+08:00",
+    "fetchedAt": "2026-09-29T14:49:29.135+08:00",
     "error": null
   },
   "quote": {
@@ -25,21 +25,21 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
-          "resetAt": "2026-09-29T15:39:59.513+08:00"
+          "usedPct": 49,
+          "resetAt": "2026-09-29T15:40:00.335+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 94,
-          "resetAt": "2026-10-04T15:59:59.513+08:00"
+          "usedPct": 95,
+          "resetAt": "2026-10-04T16:00:00.335+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 45,
-          "resetAt": "2026-10-04T15:59:59.514+08:00"
+          "resetAt": "2026-10-04T16:00:00.335+08:00"
         }
       ],
-      "fetchedAt": "2026-09-29T14:39:14.660+08:00",
+      "fetchedAt": "2026-09-29T14:49:23.337+08:00",
       "error": null
     },
     "codex": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T08:00:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-29T14:39:14.710+08:00",
+      "fetchedAt": "2026-09-29T14:49:23.393+08:00",
       "error": null
     },
     "claude84": {
@@ -73,7 +73,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T14:18:56.945+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-09-29T14:39:14.711+08:00"
+      "lastAttemptAt": "2026-09-29T14:49:23.395+08:00"
     },
     "claude72": {
       "ok": true,
@@ -81,16 +81,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
-          "resetAt": "2026-09-29T15:09:59.756+08:00"
+          "usedPct": 42,
+          "resetAt": "2026-09-29T15:09:59.612+08:00"
         },
         {
           "name": "7天",
           "usedPct": 90,
-          "resetAt": "2026-10-04T19:59:59.756+08:00"
+          "resetAt": "2026-10-04T19:59:59.612+08:00"
         }
       ],
-      "fetchedAt": "2026-09-29T14:39:14.713+08:00",
+      "fetchedAt": "2026-09-29T14:49:23.396+08:00",
       "error": null
     }
   },
