@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-30T08:34:14.684+08:00",
+  "updatedAt": "2026-10-01T07:39:49.521+08:00",
   "weather": {
     "ok": true,
-    "description": "阴",
-    "iconKey": "cloudy",
+    "description": "局部阵雨",
+    "iconKey": "rain",
     "tempC": 22,
-    "feelsLikeC": 24,
-    "humidity": 83,
-    "windKph": 11,
-    "windDir": "东东北风",
+    "feelsLikeC": 21,
+    "humidity": 70,
+    "windKph": 14,
+    "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-09-30T08:34:09.648+08:00",
-    "fetchedAt": "2026-09-30T08:34:14.684+08:00",
+    "observedAt": "2026-10-01T07:39:44.243+08:00",
+    "fetchedAt": "2026-10-01T07:39:49.521+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-09-30T08:34:09.765+08:00"
+      "lastAttemptAt": "2026-10-01T07:39:44.288+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 83,
-          "resetAt": "2026-10-04T08:00:19.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-08T07:38:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-30T08:34:09.793+08:00",
+      "fetchedAt": "2026-10-01T07:39:44.307+08:00",
       "error": null
     },
     "claude84": {
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 0,
-          "resetAt": "2026-10-05T20:59:59.895+08:00"
+          "resetAt": "2026-10-05T20:59:59.867+08:00"
         }
       ],
-      "fetchedAt": "2026-09-30T08:34:09.794+08:00",
+      "fetchedAt": "2026-10-01T07:39:44.310+08:00",
       "error": null
     },
     "claude72": {
@@ -91,7 +91,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-30T08:34:09.795+08:00",
-      "error": null
+      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
+      "stale": true,
+      "lastAttemptAt": "2026-10-01T07:39:44.310+08:00"
     }
   },
   "providerTypes": {
