@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-01T10:12:46.438+08:00",
+  "updatedAt": "2026-10-01T10:23:21.925+08:00",
   "weather": {
     "ok": true,
     "description": "小阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 10,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-10-01T10:12:41.962+08:00",
-    "fetchedAt": "2026-10-01T10:12:46.438+08:00",
+    "observedAt": "2026-10-01T10:22:51.845+08:00",
+    "fetchedAt": "2026-10-01T10:23:21.925+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-01T10:12:42.002+08:00"
+      "lastAttemptAt": "2026-10-01T10:22:51.887+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-08T07:38:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T10:12:42.028+08:00",
+      "fetchedAt": "2026-10-01T10:22:51.916+08:00",
       "error": null
     },
     "claude84": {
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-01T10:12:42.029+08:00",
-      "error": null
+      "error": "SSH 连接超时（机器不在线或网络不通）",
+      "stale": true,
+      "lastAttemptAt": "2026-10-01T10:22:51.918+08:00"
     },
     "claude72": {
       "ok": true,
@@ -91,7 +93,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-01T10:12:42.030+08:00",
-      "error": null
+      "error": "取回用量文件超时",
+      "stale": true,
+      "lastAttemptAt": "2026-10-01T10:22:51.919+08:00"
     }
   },
   "providerTypes": {
