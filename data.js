@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-01T09:21:50.059+08:00",
+  "updatedAt": "2026-10-01T09:31:59.324+08:00",
   "weather": {
     "ok": true,
-    "description": "阴",
-    "iconKey": "cloudy",
+    "description": "小阵雨",
+    "iconKey": "rain",
     "tempC": 22,
-    "feelsLikeC": 22,
-    "humidity": 67,
-    "windKph": 9,
-    "windDir": "东北风",
+    "feelsLikeC": 24,
+    "humidity": 81,
+    "windKph": 10,
+    "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-10-01T09:21:43.958+08:00",
-    "fetchedAt": "2026-10-01T09:21:50.060+08:00",
+    "observedAt": "2026-10-01T09:31:55.487+08:00",
+    "fetchedAt": "2026-10-01T09:31:59.324+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-01T09:21:44.006+08:00"
+      "lastAttemptAt": "2026-10-01T09:31:55.532+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-08T07:38:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T09:21:44.028+08:00",
+      "fetchedAt": "2026-10-01T09:31:55.552+08:00",
       "error": null
     },
     "claude84": {
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 0,
-          "resetAt": "2026-10-05T20:59:59.998+08:00"
+          "resetAt": "2026-10-05T20:59:59.538+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T09:21:44.029+08:00",
+      "fetchedAt": "2026-10-01T09:31:55.554+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-04T20:00:00.016+08:00"
+          "resetAt": "2026-10-04T20:00:00.437+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T09:21:44.030+08:00",
+      "fetchedAt": "2026-10-01T09:31:55.555+08:00",
       "error": null
     }
   },
