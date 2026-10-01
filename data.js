@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-02T03:42:44.849+08:00",
+  "updatedAt": "2026-10-02T03:52:55.980+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-02T03:42:39.398+08:00",
-    "fetchedAt": "2026-10-02T03:42:44.850+08:00",
+    "observedAt": "2026-10-02T03:52:50.131+08:00",
+    "fetchedAt": "2026-10-02T03:52:55.981+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-02T03:42:39.440+08:00"
+      "lastAttemptAt": "2026-10-02T03:52:50.167+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-08T07:38:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-02T03:42:39.467+08:00",
+      "fetchedAt": "2026-10-02T03:52:50.191+08:00",
       "error": null
     },
     "claude84": {
@@ -73,9 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-01T22:06:18.321+08:00",
-      "error": "远端用量文件已过期（361 分钟未更新，检查 agent 是否在运行）",
+      "error": "远端用量文件已过期（371 分钟未更新，检查 agent 是否在运行）",
       "stale": true,
-      "lastAttemptAt": "2026-10-02T03:42:39.468+08:00"
+      "lastAttemptAt": "2026-10-02T03:52:50.192+08:00"
     },
     "claude72": {
       "ok": true,
@@ -89,13 +89,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-04T19:59:59.960+08:00"
+          "resetAt": "2026-10-04T20:00:00.160+08:00"
         }
       ],
-      "fetchedAt": "2026-10-02T01:19:47.649+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-10-02T03:42:39.469+08:00"
+      "fetchedAt": "2026-10-02T03:52:50.192+08:00",
+      "error": null
     }
   },
   "providerTypes": {
