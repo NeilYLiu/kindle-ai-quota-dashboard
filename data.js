@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-01T22:57:14.394+08:00",
+  "updatedAt": "2026-10-01T23:07:25.615+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-01T22:57:10.344+08:00",
-    "fetchedAt": "2026-10-01T22:57:14.394+08:00",
+    "observedAt": "2026-10-01T23:07:20.257+08:00",
+    "fetchedAt": "2026-10-01T23:07:25.616+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-01T22:57:10.387+08:00"
+      "lastAttemptAt": "2026-10-01T23:07:20.300+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-08T07:38:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T22:57:10.406+08:00",
+      "fetchedAt": "2026-10-01T23:07:20.327+08:00",
       "error": null
     },
     "claude84": {
@@ -73,9 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-01T22:06:18.321+08:00",
-      "error": "远端用量文件已过期（75 分钟未更新，检查 agent 是否在运行）",
+      "error": "远端用量文件已过期（85 分钟未更新，检查 agent 是否在运行）",
       "stale": true,
-      "lastAttemptAt": "2026-10-01T22:57:10.408+08:00"
+      "lastAttemptAt": "2026-10-01T23:07:20.328+08:00"
     },
     "claude72": {
       "ok": true,
@@ -89,10 +89,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-04T19:59:59.661+08:00"
+          "resetAt": "2026-10-04T19:59:59.845+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T22:57:10.408+08:00",
+      "fetchedAt": "2026-10-01T23:07:20.329+08:00",
       "error": null
     }
   },
