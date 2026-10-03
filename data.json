@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T23:32:27.101+08:00",
+  "updatedAt": "2026-10-03T23:43:08.044+08:00",
   "weather": {
     "ok": true,
     "description": "小雨",
@@ -10,8 +10,8 @@
     "windKph": 15,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-03T23:21:10.900+08:00",
-    "fetchedAt": "2026-10-03T23:32:27.101+08:00",
+    "observedAt": "2026-10-03T23:43:02.140+08:00",
+    "fetchedAt": "2026-10-03T23:43:08.044+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-03T23:31:57.063+08:00"
+      "lastAttemptAt": "2026-10-03T23:43:02.202+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,14 +50,12 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 30,
           "resetAt": "2026-10-10T12:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-03T23:21:10.973+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-03T23:31:57.094+08:00"
+      "fetchedAt": "2026-10-03T23:43:02.233+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -75,9 +73,9 @@
         }
       ],
       "fetchedAt": "2026-10-01T22:06:18.321+08:00",
-      "error": "取回用量文件超时",
+      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-03T23:31:57.096+08:00"
+      "lastAttemptAt": "2026-10-03T23:43:02.234+08:00"
     },
     "claude72": {
       "ok": true,
@@ -91,13 +89,11 @@
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-04T20:00:00.423+08:00"
+          "resetAt": "2026-10-04T19:59:59.889+08:00"
         }
       ],
-      "fetchedAt": "2026-10-03T23:10:50.700+08:00",
-      "error": "取回用量文件超时",
-      "stale": true,
-      "lastAttemptAt": "2026-10-03T23:31:57.097+08:00"
+      "fetchedAt": "2026-10-03T23:43:02.235+08:00",
+      "error": null
     }
   },
   "providerTypes": {
