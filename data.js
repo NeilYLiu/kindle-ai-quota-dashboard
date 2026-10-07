@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-07T17:34:08.949+08:00",
+  "updatedAt": "2026-10-07T17:44:20.111+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 7,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-07T17:34:07.087+08:00",
-    "fetchedAt": "2026-10-07T17:34:08.949+08:00",
+    "observedAt": "2026-10-07T17:44:14.776+08:00",
+    "fetchedAt": "2026-10-07T17:44:20.111+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-07T17:34:07.131+08:00"
+      "lastAttemptAt": "2026-10-07T17:44:14.821+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T17:34:07.160+08:00",
+      "fetchedAt": "2026-10-07T17:44:14.852+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
-          "resetAt": "2026-10-07T22:09:59.985+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-10-07T22:10:00.371+08:00"
         },
         {
           "name": "7天",
           "usedPct": 4,
-          "resetAt": "2026-10-12T20:59:59.985+08:00"
+          "resetAt": "2026-10-12T21:00:00.371+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T17:34:07.162+08:00",
+      "fetchedAt": "2026-10-07T17:44:14.854+08:00",
       "error": null
     },
     "claude72": {
@@ -81,16 +81,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
-          "resetAt": "2026-10-07T17:49:59.933+08:00"
+          "usedPct": 25,
+          "resetAt": "2026-10-07T17:49:59.751+08:00"
         },
         {
           "name": "7天",
           "usedPct": 86,
-          "resetAt": "2026-10-11T19:59:59.933+08:00"
+          "resetAt": "2026-10-11T19:59:59.751+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T17:34:07.163+08:00",
+      "fetchedAt": "2026-10-07T17:44:14.855+08:00",
       "error": null
     }
   },
