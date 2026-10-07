@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-07T11:59:38.553+08:00",
+  "updatedAt": "2026-10-07T12:09:45.903+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 4,
     "windDir": "北西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-07T11:59:36.694+08:00",
-    "fetchedAt": "2026-10-07T11:59:38.553+08:00",
+    "observedAt": "2026-10-07T12:09:44.280+08:00",
+    "fetchedAt": "2026-10-07T12:09:45.903+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-07T11:59:36.741+08:00"
+      "lastAttemptAt": "2026-10-07T12:09:44.320+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T11:59:36.772+08:00",
+      "fetchedAt": "2026-10-07T12:09:44.344+08:00",
       "error": null
     },
     "claude84": {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-12T21:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T11:59:36.774+08:00",
+      "fetchedAt": "2026-10-07T12:09:44.345+08:00",
       "error": null
     },
     "claude72": {
@@ -81,16 +81,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
-          "resetAt": "2026-10-07T12:49:59.768+08:00"
+          "usedPct": 30,
+          "resetAt": "2026-10-07T12:49:59.621+08:00"
         },
         {
           "name": "7天",
           "usedPct": 78,
-          "resetAt": "2026-10-11T19:59:59.768+08:00"
+          "resetAt": "2026-10-11T19:59:59.621+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T11:59:36.774+08:00",
+      "fetchedAt": "2026-10-07T12:09:44.346+08:00",
       "error": null
     }
   },
