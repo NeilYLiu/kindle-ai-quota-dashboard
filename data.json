@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:17:34.989+08:00",
+  "updatedAt": "2026-10-07T09:27:42.500+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@
     "windKph": 5,
     "windDir": "西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-07T09:17:33.129+08:00",
-    "fetchedAt": "2026-10-07T09:17:34.990+08:00",
+    "observedAt": "2026-10-07T09:27:40.588+08:00",
+    "fetchedAt": "2026-10-07T09:27:42.500+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-07T09:17:33.167+08:00"
+      "lastAttemptAt": "2026-10-07T09:27:40.622+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 92,
+          "usedPct": 93,
           "resetAt": "2026-10-10T12:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T09:17:33.186+08:00",
+      "fetchedAt": "2026-10-07T09:27:40.648+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-10-01T22:06:18.321+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-07T09:17:33.189+08:00"
+      "lastAttemptAt": "2026-10-07T09:27:40.649+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
-          "resetAt": "2026-10-07T12:49:59.882+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-10-07T12:49:59.947+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 73,
-          "resetAt": "2026-10-11T19:59:59.882+08:00"
+          "usedPct": 74,
+          "resetAt": "2026-10-11T19:59:59.947+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T09:17:33.190+08:00",
+      "fetchedAt": "2026-10-07T09:27:40.650+08:00",
       "error": null
     }
   },
