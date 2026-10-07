@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T06:26:05.565+08:00",
+  "updatedAt": "2026-10-08T06:36:12.952+08:00",
   "weather": {
     "ok": true,
-    "description": "Smoke",
+    "description": "Haze",
     "iconKey": "rain",
     "tempC": 17,
     "feelsLikeC": 17,
-    "humidity": 67,
+    "humidity": 68,
     "windKph": 4,
-    "windDir": "北风",
+    "windDir": "北西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-08T06:26:03.720+08:00",
-    "fetchedAt": "2026-10-08T06:26:05.565+08:00",
+    "observedAt": "2026-10-08T06:36:11.276+08:00",
+    "fetchedAt": "2026-10-08T06:36:12.952+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-29T17:31:57.022+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-08T06:26:03.756+08:00"
+      "lastAttemptAt": "2026-10-08T06:36:11.347+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T06:26:03.783+08:00",
+      "fetchedAt": "2026-10-08T06:36:11.386+08:00",
       "error": null
     },
     "claude84": {
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 4,
-          "resetAt": "2026-10-08T10:49:59.644+08:00"
+          "resetAt": "2026-10-08T10:49:59.831+08:00"
         },
         {
           "name": "7天",
           "usedPct": 7,
-          "resetAt": "2026-10-12T20:59:59.644+08:00"
+          "resetAt": "2026-10-12T20:59:59.831+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T06:26:03.784+08:00",
+      "fetchedAt": "2026-10-08T06:36:11.388+08:00",
       "error": null
     },
     "claude72": {
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-07T23:59:16.339+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-08T06:26:03.785+08:00"
+      "lastAttemptAt": "2026-10-08T06:36:11.390+08:00"
     }
   },
   "providerTypes": {
