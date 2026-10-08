@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T16:55:58.582+08:00",
+  "updatedAt": "2026-10-08T17:06:10.160+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 25,
-    "feelsLikeC": 22,
-    "humidity": 41,
-    "windKph": 14,
-    "windDir": "东东北风",
+    "description": "Smoky haze",
+    "iconKey": "rain",
+    "tempC": 22,
+    "feelsLikeC": 20,
+    "humidity": 51,
+    "windKph": 12,
+    "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-08T16:55:56.166+08:00",
-    "fetchedAt": "2026-10-08T16:55:58.582+08:00",
+    "observedAt": "2026-10-08T17:06:05.960+08:00",
+    "fetchedAt": "2026-10-08T17:06:10.160+08:00",
     "error": null
   },
   "quote": {
@@ -25,16 +25,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
-          "resetAt": "2026-10-08T21:00:00.290+08:00"
+          "usedPct": 59,
+          "resetAt": "2026-10-08T20:59:59.597+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 26,
-          "resetAt": "2026-10-12T21:00:00.290+08:00"
+          "usedPct": 27,
+          "resetAt": "2026-10-12T20:59:59.597+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:55:56.258+08:00",
+      "fetchedAt": "2026-10-08T17:06:06.430+08:00",
       "error": null
     },
     "codex": {
@@ -43,11 +43,11 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 54,
+          "usedPct": 55,
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:55:56.401+08:00",
+      "fetchedAt": "2026-10-08T17:06:06.667+08:00",
       "error": null
     },
     "claude84": {
@@ -56,16 +56,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
-          "resetAt": "2026-10-08T20:59:59.569+08:00"
+          "usedPct": 57,
+          "resetAt": "2026-10-08T20:59:59.883+08:00"
         },
         {
           "name": "7天",
           "usedPct": 26,
-          "resetAt": "2026-10-12T20:59:59.569+08:00"
+          "resetAt": "2026-10-12T20:59:59.883+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:55:56.406+08:00",
+      "fetchedAt": "2026-10-08T17:06:06.734+08:00",
       "error": null
     },
     "claude72": {
@@ -74,16 +74,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
-          "resetAt": "2026-10-08T17:00:00.337+08:00"
+          "usedPct": 0,
+          "resetAt": null
         },
         {
           "name": "7天",
           "usedPct": 94,
-          "resetAt": "2026-10-11T20:00:00.337+08:00"
+          "resetAt": "2026-10-11T19:59:59.778+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:55:56.408+08:00",
+      "fetchedAt": "2026-10-08T17:06:06.737+08:00",
       "error": null
     }
   },
