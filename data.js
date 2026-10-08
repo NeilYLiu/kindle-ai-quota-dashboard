@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T22:40:57.022+08:00",
+  "updatedAt": "2026-10-08T22:51:11.625+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 7,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-08T22:40:53.204+08:00",
-    "fetchedAt": "2026-10-08T22:40:57.022+08:00",
+    "observedAt": "2026-10-08T22:51:05.008+08:00",
+    "fetchedAt": "2026-10-08T22:51:11.625+08:00",
     "error": null
   },
   "quote": {
@@ -26,15 +26,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 8,
-          "resetAt": "2026-10-09T02:20:00.397+08:00"
+          "resetAt": "2026-10-09T02:20:00.450+08:00"
         },
         {
           "name": "7天",
           "usedPct": 31,
-          "resetAt": "2026-10-12T21:00:00.397+08:00"
+          "resetAt": "2026-10-12T21:00:00.450+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:40:53.311+08:00",
+      "fetchedAt": "2026-10-08T22:51:05.131+08:00",
       "error": null
     },
     "codex": {
@@ -47,7 +47,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:40:53.441+08:00",
+      "fetchedAt": "2026-10-08T22:51:05.451+08:00",
       "error": null
     },
     "claude84": {
@@ -57,15 +57,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 8,
-          "resetAt": "2026-10-09T02:19:59.668+08:00"
+          "resetAt": "2026-10-09T02:20:00.143+08:00"
         },
         {
           "name": "7天",
           "usedPct": 31,
-          "resetAt": "2026-10-12T20:59:59.668+08:00"
+          "resetAt": "2026-10-12T21:00:00.143+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:40:53.446+08:00",
+      "fetchedAt": "2026-10-08T22:51:05.459+08:00",
       "error": null
     },
     "claude72": {
@@ -80,10 +80,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 96,
-          "resetAt": "2026-10-11T20:00:00.460+08:00"
+          "resetAt": "2026-10-11T20:00:00.093+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:40:53.448+08:00",
+      "fetchedAt": "2026-10-08T22:51:05.464+08:00",
       "error": null
     }
   },
