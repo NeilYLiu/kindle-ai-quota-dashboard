@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T04:57:00.153+08:00",
+  "updatedAt": "2026-10-09T05:07:11.699+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
     "iconKey": "rain",
-    "tempC": 19,
+    "tempC": 18,
     "feelsLikeC": 19,
-    "humidity": 70,
-    "windKph": 4,
-    "windDir": "东南风",
-    "place": "Yangpu",
-    "observedAt": "2026-10-09T04:56:57.894+08:00",
-    "fetchedAt": "2026-10-09T04:57:00.153+08:00",
+    "humidity": 71,
+    "windKph": 5,
+    "windDir": "东东南风",
+    "place": "Pootung",
+    "observedAt": "2026-10-09T05:07:09.007+08:00",
+    "fetchedAt": "2026-10-09T05:07:11.699+08:00",
     "error": null
   },
   "quote": {
@@ -26,15 +26,15 @@
         {
           "name": "5小时",
           "usedPct": 12,
-          "resetAt": "2026-10-09T07:19:59.912+08:00"
+          "resetAt": "2026-10-09T07:20:00.055+08:00"
         },
         {
           "name": "7天",
           "usedPct": 32,
-          "resetAt": "2026-10-12T20:59:59.912+08:00"
+          "resetAt": "2026-10-12T21:00:00.055+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T04:56:57.937+08:00",
+      "fetchedAt": "2026-10-09T05:07:09.067+08:00",
       "error": null
     },
     "codex": {
@@ -47,7 +47,7 @@
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T04:56:58.007+08:00",
+      "fetchedAt": "2026-10-09T05:07:09.148+08:00",
       "error": null
     },
     "claude84": {
@@ -56,16 +56,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
-          "resetAt": "2026-10-09T07:19:59.515+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-10-09T07:20:00.301+08:00"
         },
         {
           "name": "7天",
           "usedPct": 32,
-          "resetAt": "2026-10-12T20:59:59.515+08:00"
+          "resetAt": "2026-10-12T21:00:00.301+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T04:56:58.009+08:00",
+      "fetchedAt": "2026-10-09T05:07:09.151+08:00",
       "error": null
     },
     "claude72": {
@@ -86,7 +86,7 @@
       "fetchedAt": "2026-10-08T23:01:18.268+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-09T04:56:58.011+08:00"
+      "lastAttemptAt": "2026-10-09T05:07:09.152+08:00"
     }
   },
   "providerTypes": {
