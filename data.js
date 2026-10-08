@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T22:10:29.272+08:00",
+  "updatedAt": "2026-10-08T22:20:38.312+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 7,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-08T22:10:26.098+08:00",
-    "fetchedAt": "2026-10-08T22:10:29.272+08:00",
+    "observedAt": "2026-10-08T22:20:36.218+08:00",
+    "fetchedAt": "2026-10-08T22:20:38.312+08:00",
     "error": null
   },
   "quote": {
@@ -26,15 +26,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 8,
-          "resetAt": "2026-10-09T02:20:00.102+08:00"
+          "resetAt": "2026-10-09T02:20:00.200+08:00"
         },
         {
           "name": "7天",
           "usedPct": 31,
-          "resetAt": "2026-10-12T21:00:00.102+08:00"
+          "resetAt": "2026-10-12T21:00:00.200+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:10:26.144+08:00",
+      "fetchedAt": "2026-10-08T22:20:36.256+08:00",
       "error": null
     },
     "codex": {
@@ -47,7 +47,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:10:26.208+08:00",
+      "fetchedAt": "2026-10-08T22:20:36.305+08:00",
       "error": null
     },
     "claude84": {
@@ -56,16 +56,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
-          "resetAt": "2026-10-09T02:20:00.128+08:00"
+          "usedPct": 8,
+          "resetAt": "2026-10-09T02:20:00.254+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 30,
-          "resetAt": "2026-10-12T21:00:00.128+08:00"
+          "usedPct": 31,
+          "resetAt": "2026-10-12T21:00:00.254+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:10:26.210+08:00",
+      "fetchedAt": "2026-10-08T22:20:36.307+08:00",
       "error": null
     },
     "claude72": {
@@ -74,16 +74,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
-          "resetAt": "2026-10-08T22:20:00.229+08:00"
+          "usedPct": 0,
+          "resetAt": null
         },
         {
           "name": "7天",
           "usedPct": 96,
-          "resetAt": "2026-10-11T20:00:00.229+08:00"
+          "resetAt": "2026-10-11T20:00:00.354+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:10:26.212+08:00",
+      "fetchedAt": "2026-10-08T22:20:36.308+08:00",
       "error": null
     }
   },
