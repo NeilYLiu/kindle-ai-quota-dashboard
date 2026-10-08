@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T11:10:11.188+08:00",
+  "updatedAt": "2026-10-08T11:20:19.246+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 4,
     "windDir": "东东南风",
     "place": "Yangpu",
-    "observedAt": "2026-10-08T11:10:09.186+08:00",
-    "fetchedAt": "2026-10-08T11:10:11.188+08:00",
+    "observedAt": "2026-10-08T11:20:17.007+08:00",
+    "fetchedAt": "2026-10-08T11:20:19.246+08:00",
     "error": null
   },
   "quote": {
@@ -25,16 +25,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
-          "resetAt": "2026-10-08T16:00:00.079+08:00"
+          "usedPct": 17,
+          "resetAt": "2026-10-08T16:00:00.107+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 10,
-          "resetAt": "2026-10-12T21:00:00.079+08:00"
+          "usedPct": 11,
+          "resetAt": "2026-10-12T21:00:00.107+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T11:10:09.229+08:00",
+      "fetchedAt": "2026-10-08T11:20:17.066+08:00",
       "error": null
     },
     "codex": {
@@ -47,7 +47,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T11:10:09.297+08:00",
+      "fetchedAt": "2026-10-08T11:20:17.154+08:00",
       "error": null
     },
     "claude84": {
@@ -56,16 +56,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
-          "resetAt": "2026-10-08T15:59:59.963+08:00"
+          "usedPct": 14,
+          "resetAt": "2026-10-08T16:00:00.079+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 10,
-          "resetAt": "2026-10-12T20:59:59.963+08:00"
+          "usedPct": 11,
+          "resetAt": "2026-10-12T21:00:00.079+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T11:10:09.299+08:00",
+      "fetchedAt": "2026-10-08T11:20:17.156+08:00",
       "error": null
     },
     "claude72": {
@@ -74,16 +74,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
-          "resetAt": "2026-10-08T11:59:59.606+08:00"
+          "usedPct": 16,
+          "resetAt": "2026-10-08T11:59:59.655+08:00"
         },
         {
           "name": "7天",
           "usedPct": 92,
-          "resetAt": "2026-10-11T19:59:59.606+08:00"
+          "resetAt": "2026-10-11T19:59:59.655+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T11:10:09.300+08:00",
+      "fetchedAt": "2026-10-08T11:20:17.158+08:00",
       "error": null
     }
   },
