@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T01:46:29.595+08:00",
+  "updatedAt": "2026-10-10T01:56:41.014+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
     "iconKey": "rain",
     "tempC": 21,
     "feelsLikeC": 22,
-    "humidity": 83,
-    "windKph": 9,
-    "windDir": "东风",
+    "humidity": 82,
+    "windKph": 7,
+    "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-09T23:43:20.218+08:00",
-    "fetchedAt": "2026-10-10T01:46:29.595+08:00",
+    "observedAt": "2026-10-10T01:56:35.561+08:00",
+    "fetchedAt": "2026-10-10T01:56:41.015+08:00",
     "error": null
   },
   "quote": {
@@ -26,15 +26,15 @@
         {
           "name": "5小时",
           "usedPct": 91,
-          "resetAt": "2026-10-10T03:19:59.677+08:00"
+          "resetAt": "2026-10-10T03:19:59.634+08:00"
         },
         {
           "name": "7天",
           "usedPct": 80,
-          "resetAt": "2026-10-12T20:59:59.677+08:00"
+          "resetAt": "2026-10-12T20:59:59.634+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T01:46:26.672+08:00",
+      "fetchedAt": "2026-10-10T01:56:35.615+08:00",
       "error": null
     },
     "codex": {
@@ -48,7 +48,9 @@
         }
       ],
       "fetchedAt": "2026-10-10T01:46:26.769+08:00",
-      "error": null
+      "error": "Codex 额度采集失败（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-10-10T01:56:35.682+08:00"
     },
     "claude84": {
       "ok": true,
@@ -57,15 +59,15 @@
         {
           "name": "5小时",
           "usedPct": 91,
-          "resetAt": "2026-10-10T03:19:59.556+08:00"
+          "resetAt": "2026-10-10T03:19:59.720+08:00"
         },
         {
           "name": "7天",
           "usedPct": 80,
-          "resetAt": "2026-10-12T20:59:59.556+08:00"
+          "resetAt": "2026-10-12T20:59:59.720+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T01:46:26.772+08:00",
+      "fetchedAt": "2026-10-10T01:56:35.685+08:00",
       "error": null
     },
     "claude72": {
@@ -86,7 +88,7 @@
       "fetchedAt": "2026-10-10T00:04:16.100+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T01:46:26.774+08:00"
+      "lastAttemptAt": "2026-10-10T01:56:35.687+08:00"
     }
   },
   "providerTypes": {
