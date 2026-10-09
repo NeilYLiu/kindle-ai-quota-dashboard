@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T10:58:34.193+08:00",
+  "updatedAt": "2026-10-09T11:08:42.581+08:00",
   "weather": {
     "ok": true,
-    "description": "局部阵雨",
-    "iconKey": "rain",
-    "tempC": 22,
+    "description": "阴",
+    "iconKey": "cloudy",
+    "tempC": 23,
     "feelsLikeC": 22,
-    "humidity": 65,
-    "windKph": 8,
+    "humidity": 54,
+    "windKph": 9,
     "windDir": "东东南风",
-    "place": "Hongkew",
-    "observedAt": "2026-10-09T10:58:31.567+08:00",
-    "fetchedAt": "2026-10-09T10:58:34.193+08:00",
+    "place": "Pootung",
+    "observedAt": "2026-10-09T11:08:40.302+08:00",
+    "fetchedAt": "2026-10-09T11:08:42.581+08:00",
     "error": null
   },
   "quote": {
@@ -35,7 +35,9 @@
         }
       ],
       "fetchedAt": "2026-10-09T10:58:31.647+08:00",
-      "error": null
+      "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-10-09T11:08:40.413+08:00"
     },
     "codex": {
       "ok": true,
@@ -47,7 +49,7 @@
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:58:31.762+08:00",
+      "fetchedAt": "2026-10-09T11:08:40.458+08:00",
       "error": null
     },
     "claude84": {
@@ -57,15 +59,15 @@
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-09T12:19:59.852+08:00"
+          "resetAt": "2026-10-09T12:19:59.790+08:00"
         },
         {
           "name": "7天",
           "usedPct": 48,
-          "resetAt": "2026-10-12T20:59:59.852+08:00"
+          "resetAt": "2026-10-12T20:59:59.790+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:58:31.766+08:00",
+      "fetchedAt": "2026-10-09T11:08:40.470+08:00",
       "error": null
     },
     "claude72": {
@@ -75,15 +77,15 @@
         {
           "name": "5小时",
           "usedPct": 5,
-          "resetAt": "2026-10-09T11:49:59.607+08:00"
+          "resetAt": "2026-10-09T11:49:59.635+08:00"
         },
         {
           "name": "7天",
           "usedPct": 97,
-          "resetAt": "2026-10-11T19:59:59.607+08:00"
+          "resetAt": "2026-10-11T19:59:59.635+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:58:31.768+08:00",
+      "fetchedAt": "2026-10-09T11:08:40.477+08:00",
       "error": null
     }
   },
