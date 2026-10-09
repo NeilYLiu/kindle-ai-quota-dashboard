@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T22:11:49.878+08:00",
+  "updatedAt": "2026-10-09T22:22:02.340+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 8,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-09T22:11:44.561+08:00",
-    "fetchedAt": "2026-10-09T22:11:49.878+08:00",
+    "observedAt": "2026-10-09T22:21:59.623+08:00",
+    "fetchedAt": "2026-10-09T22:22:02.340+08:00",
     "error": null
   },
   "quote": {
@@ -25,16 +25,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-09T22:19:59.816+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-10T03:19:59.924+08:00"
         },
         {
           "name": "7天",
           "usedPct": 71,
-          "resetAt": "2026-10-12T20:59:59.816+08:00"
+          "resetAt": "2026-10-12T20:59:59.924+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T22:11:44.948+08:00",
+      "fetchedAt": "2026-10-09T22:21:59.786+08:00",
       "error": null
     },
     "codex": {
@@ -47,7 +47,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T22:11:45.590+08:00",
+      "fetchedAt": "2026-10-09T22:22:00.033+08:00",
       "error": null
     },
     "claude84": {
@@ -56,16 +56,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-09T22:20:00.058+08:00"
+          "usedPct": 0,
+          "resetAt": null
         },
         {
           "name": "7天",
           "usedPct": 71,
-          "resetAt": "2026-10-12T21:00:00.059+08:00"
+          "resetAt": "2026-10-12T20:59:59.567+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T22:11:45.597+08:00",
+      "fetchedAt": "2026-10-09T22:22:00.037+08:00",
       "error": null
     },
     "claude72": {
@@ -80,10 +80,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-11T19:59:59.798+08:00"
+          "resetAt": "2026-10-11T19:59:59.870+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T22:11:45.600+08:00",
+      "fetchedAt": "2026-10-09T22:22:00.039+08:00",
       "error": null
     }
   },
