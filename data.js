@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T03:58:25.380+08:00",
+  "updatedAt": "2026-10-10T04:08:35.895+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6,
     "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-10T03:58:23.331+08:00",
-    "fetchedAt": "2026-10-10T03:58:25.380+08:00",
+    "observedAt": "2026-10-10T04:08:33.603+08:00",
+    "fetchedAt": "2026-10-10T04:08:35.895+08:00",
     "error": null
   },
   "quote": {
@@ -37,7 +37,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T02:47:25.235+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T03:58:23.428+08:00"
+      "lastAttemptAt": "2026-10-10T04:08:33.698+08:00"
     },
     "codex": {
       "ok": true,
@@ -49,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T03:58:23.552+08:00",
+      "fetchedAt": "2026-10-10T04:08:33.821+08:00",
       "error": null
     },
     "claude84": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T02:57:33.456+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T03:58:23.559+08:00"
+      "lastAttemptAt": "2026-10-10T04:08:33.825+08:00"
     },
     "claude72": {
       "ok": true,
@@ -90,7 +90,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T00:04:16.100+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T03:58:23.565+08:00"
+      "lastAttemptAt": "2026-10-10T04:08:33.828+08:00"
     }
   },
   "providerTypes": {
