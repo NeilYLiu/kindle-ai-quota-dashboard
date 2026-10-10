@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T21:54:05.788+08:00",
+  "updatedAt": "2026-10-10T22:09:31.005+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-10-10T21:46:18.148+08:00",
-    "fetchedAt": "2026-10-10T21:54:05.788+08:00",
+    "observedAt": "2026-10-10T22:09:29.378+08:00",
+    "fetchedAt": "2026-10-10T22:09:31.005+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T21:54:05.513+08:00"
+      "lastAttemptAt": "2026-10-10T22:09:29.412+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,10 +54,8 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T21:46:18.223+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-10T21:54:05.627+08:00"
+      "fetchedAt": "2026-10-10T22:09:29.428+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -75,9 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
-      "error": "网络不可达",
+      "error": "用量接口返回 HTTP 403",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T21:54:05.628+08:00"
+      "lastAttemptAt": "2026-10-10T22:09:29.429+08:00"
     },
     "claude72": {
       "ok": true,
@@ -91,13 +89,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-11T20:00:00.214+08:00"
+          "resetAt": "2026-10-11T19:59:59.977+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T21:46:18.227+08:00",
-      "error": "网络不可达",
-      "stale": true,
-      "lastAttemptAt": "2026-10-10T21:54:05.631+08:00"
+      "fetchedAt": "2026-10-10T22:09:29.430+08:00",
+      "error": null
     }
   },
   "providerTypes": {
