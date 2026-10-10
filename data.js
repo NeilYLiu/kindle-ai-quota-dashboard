@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T17:32:21.411+08:00",
+  "updatedAt": "2026-10-10T17:42:31.353+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-10T17:32:19.537+08:00",
-    "fetchedAt": "2026-10-10T17:32:21.411+08:00",
+    "observedAt": "2026-10-10T17:42:29.469+08:00",
+    "fetchedAt": "2026-10-10T17:42:31.353+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T17:12:03.420+08:00",
       "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T17:32:19.576+08:00"
+      "lastAttemptAt": "2026-10-10T17:42:29.505+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:32:19.650+08:00",
+      "fetchedAt": "2026-10-10T17:42:29.561+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 19,
-          "resetAt": "2026-10-10T18:20:00.015+08:00"
+          "usedPct": 20,
+          "resetAt": "2026-10-10T18:19:59.580+08:00"
         },
         {
           "name": "7天",
           "usedPct": 8,
-          "resetAt": "2026-10-12T21:00:00.015+08:00"
+          "resetAt": "2026-10-12T20:59:59.580+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:32:19.654+08:00",
+      "fetchedAt": "2026-10-10T17:42:29.562+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +87,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-11T20:00:00.394+08:00"
+          "resetAt": "2026-10-11T20:00:00.005+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:32:19.656+08:00",
+      "fetchedAt": "2026-10-10T17:42:29.563+08:00",
       "error": null
     }
   },
