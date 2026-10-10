@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T18:12:55.008+08:00",
+  "updatedAt": "2026-10-10T18:23:07.631+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-10T18:12:53.246+08:00",
-    "fetchedAt": "2026-10-10T18:12:55.008+08:00",
+    "observedAt": "2026-10-10T18:23:05.686+08:00",
+    "fetchedAt": "2026-10-10T18:23:07.631+08:00",
     "error": null
   },
   "quote": {
@@ -25,24 +25,22 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
-          "resetAt": "2026-10-10T18:20:00.307+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-10T23:19:59.712+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 7,
-          "resetAt": "2026-10-12T21:00:00.307+08:00"
+          "usedPct": 9,
+          "resetAt": "2026-10-12T20:59:59.712+08:00"
         },
         {
           "name": "Fable",
           "usedPct": 0,
-          "resetAt": "2026-10-12T21:00:00.307+08:00"
+          "resetAt": "2026-10-12T20:59:59.712+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:12:03.420+08:00",
-      "error": "本机 Claude 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-10T18:12:53.289+08:00"
+      "fetchedAt": "2026-10-10T18:23:05.777+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -54,7 +52,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-14T11:28:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:12:53.356+08:00",
+      "fetchedAt": "2026-10-10T18:23:05.892+08:00",
       "error": null
     },
     "claude84": {
@@ -63,16 +61,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 22,
-          "resetAt": "2026-10-10T18:19:59.847+08:00"
+          "usedPct": 23,
+          "resetAt": "2026-10-10T18:20:00.320+08:00"
         },
         {
           "name": "7天",
           "usedPct": 9,
-          "resetAt": "2026-10-12T20:59:59.847+08:00"
+          "resetAt": "2026-10-12T21:00:00.320+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:12:53.358+08:00",
+      "fetchedAt": "2026-10-10T18:23:05.896+08:00",
       "error": null
     },
     "claude72": {
@@ -87,10 +85,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 100,
-          "resetAt": "2026-10-11T20:00:00.051+08:00"
+          "resetAt": "2026-10-11T20:00:00.339+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:12:53.359+08:00",
+      "fetchedAt": "2026-10-10T18:23:05.899+08:00",
       "error": null
     }
   },
