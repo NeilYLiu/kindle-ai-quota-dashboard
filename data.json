@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T21:46:19.905+08:00",
+  "updatedAt": "2026-10-10T21:54:05.788+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "Pootung",
     "observedAt": "2026-10-10T21:46:18.148+08:00",
-    "fetchedAt": "2026-10-10T21:46:19.906+08:00",
+    "fetchedAt": "2026-10-10T21:54:05.788+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T21:46:18.202+08:00"
+      "lastAttemptAt": "2026-10-10T21:54:05.513+08:00"
     },
     "codex": {
       "ok": true,
@@ -55,7 +55,9 @@
         }
       ],
       "fetchedAt": "2026-10-10T21:46:18.223+08:00",
-      "error": null
+      "error": "Codex 额度采集失败（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-10-10T21:54:05.627+08:00"
     },
     "claude84": {
       "ok": true,
@@ -73,9 +75,9 @@
         }
       ],
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
-      "error": "用量接口返回 HTTP 429",
+      "error": "网络不可达",
       "stale": true,
-      "lastAttemptAt": "2026-10-10T21:46:18.225+08:00"
+      "lastAttemptAt": "2026-10-10T21:54:05.628+08:00"
     },
     "claude72": {
       "ok": true,
@@ -93,7 +95,9 @@
         }
       ],
       "fetchedAt": "2026-10-10T21:46:18.227+08:00",
-      "error": null
+      "error": "网络不可达",
+      "stale": true,
+      "lastAttemptAt": "2026-10-10T21:54:05.631+08:00"
     }
   },
   "providerTypes": {
