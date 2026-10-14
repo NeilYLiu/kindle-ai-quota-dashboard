@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T06:22:05.937+08:00",
+  "updatedAt": "2026-10-15T06:34:04.442+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 7,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-15T06:21:27.473+08:00",
-    "fetchedAt": "2026-10-15T06:22:05.937+08:00",
+    "observedAt": "2026-10-15T06:33:28.402+08:00",
+    "fetchedAt": "2026-10-15T06:34:04.442+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-15T06:21:32.248+08:00"
+      "lastAttemptAt": "2026-10-15T06:33:31.828+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-15T06:09:36.824+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-15T06:21:35.638+08:00"
+      "lastAttemptAt": "2026-10-15T06:33:34.073+08:00"
     },
     "claude84": {
       "ok": true,
@@ -77,7 +77,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-15T06:21:35.919+08:00"
+      "lastAttemptAt": "2026-10-15T06:33:34.236+08:00"
     },
     "claude72": {
       "ok": true,
@@ -85,16 +85,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-15T08:40:00.029+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-15T08:40:00.044+08:00"
         },
         {
           "name": "7天",
           "usedPct": 37,
-          "resetAt": "2026-10-18T20:00:00.029+08:00"
+          "resetAt": "2026-10-18T20:00:00.044+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T06:21:36.262+08:00",
+      "fetchedAt": "2026-10-15T06:33:34.573+08:00",
       "error": null
     }
   },
