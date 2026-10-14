@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T04:34:41.502+08:00",
+  "updatedAt": "2026-10-15T04:46:40.082+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6,
     "windDir": "东东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-15T04:34:05.050+08:00",
-    "fetchedAt": "2026-10-15T04:34:41.502+08:00",
+    "observedAt": "2026-10-15T04:46:03.728+08:00",
+    "fetchedAt": "2026-10-15T04:46:40.082+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-15T04:34:09.040+08:00"
+      "lastAttemptAt": "2026-10-15T04:46:06.941+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-15T04:10:22.105+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-15T04:34:11.276+08:00"
+      "lastAttemptAt": "2026-10-15T04:46:09.697+08:00"
     },
     "claude84": {
       "ok": true,
@@ -77,7 +77,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-15T04:34:11.405+08:00"
+      "lastAttemptAt": "2026-10-15T04:46:10.006+08:00"
     },
     "claude72": {
       "ok": true,
@@ -86,15 +86,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T08:40:00.401+08:00"
+          "resetAt": "2026-10-15T08:39:59.947+08:00"
         },
         {
           "name": "7天",
           "usedPct": 37,
-          "resetAt": "2026-10-18T20:00:00.401+08:00"
+          "resetAt": "2026-10-18T19:59:59.947+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T04:34:11.588+08:00",
+      "fetchedAt": "2026-10-15T04:46:10.427+08:00",
       "error": null
     }
   },
