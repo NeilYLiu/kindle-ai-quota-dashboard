@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:14:06.427+08:00",
+  "updatedAt": "2026-10-14T21:25:24.828+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@
     "windKph": 8,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-10-14T21:13:41.484+08:00",
-    "fetchedAt": "2026-10-14T21:14:06.427+08:00",
+    "observedAt": "2026-10-14T21:24:57.089+08:00",
+    "fetchedAt": "2026-10-14T21:25:24.828+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-14T21:13:44.406+08:00"
+      "lastAttemptAt": "2026-10-14T21:25:00.507+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@
       "windows": [
         {
           "name": "周",
-          "usedPct": 39,
-          "resetAt": "2026-10-20T13:21:05.000+08:00"
+          "usedPct": 40,
+          "resetAt": "2026-10-20T13:21:04.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T21:13:45.959+08:00",
+      "fetchedAt": "2026-10-14T21:25:01.964+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-14T21:13:45.993+08:00"
+      "lastAttemptAt": "2026-10-14T21:25:02.788+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,19 +83,17 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
-          "resetAt": "2026-10-14T21:10:00.237+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-15T02:10:00.120+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 36,
-          "resetAt": "2026-10-18T20:00:00.237+08:00"
+          "usedPct": 37,
+          "resetAt": "2026-10-18T20:00:00.120+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T20:18:21.890+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-10-14T21:13:46.174+08:00"
+      "fetchedAt": "2026-10-14T21:25:02.971+08:00",
+      "error": null
     }
   },
   "providerTypes": {
