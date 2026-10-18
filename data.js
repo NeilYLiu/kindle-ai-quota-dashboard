@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T21:36:25.568+08:00",
+  "updatedAt": "2026-10-18T21:48:32.875+08:00",
   "weather": {
     "ok": true,
     "description": "小阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-10-18T21:35:47.875+08:00",
-    "fetchedAt": "2026-10-18T21:36:25.569+08:00",
+    "observedAt": "2026-10-18T21:47:51.410+08:00",
+    "fetchedAt": "2026-10-18T21:48:32.876+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-18T21:35:53.512+08:00"
+      "lastAttemptAt": "2026-10-18T21:47:57.975+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-18T21:23:57.354+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-18T21:35:55.380+08:00"
+      "lastAttemptAt": "2026-10-18T21:48:02.260+08:00"
     },
     "claude84": {
       "ok": true,
@@ -77,7 +77,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-18T21:35:55.472+08:00"
+      "lastAttemptAt": "2026-10-18T21:48:02.811+08:00"
     },
     "claude72": {
       "ok": true,
@@ -85,16 +85,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
-          "resetAt": "2026-10-18T23:50:00.473+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-10-18T23:49:59.530+08:00"
         },
         {
           "name": "7天",
           "usedPct": 0,
-          "resetAt": "2026-10-25T20:00:00.473+08:00"
+          "resetAt": "2026-10-25T19:59:59.530+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T21:35:55.597+08:00",
+      "fetchedAt": "2026-10-18T21:48:02.848+08:00",
       "error": null
     }
   },
