@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T15:56:34.678+08:00",
+  "updatedAt": "2026-10-18T16:07:32.896+08:00",
   "weather": {
     "ok": true,
     "description": "小阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17,
     "windDir": "北西北风",
     "place": "Yangpu",
-    "observedAt": "2026-10-18T15:56:17.749+08:00",
-    "fetchedAt": "2026-10-18T15:56:34.678+08:00",
+    "observedAt": "2026-10-18T16:07:23.310+08:00",
+    "fetchedAt": "2026-10-18T16:07:32.896+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-18T15:56:18.965+08:00"
+      "lastAttemptAt": "2026-10-18T16:07:24.030+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-10-25T04:41:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:19.244+08:00",
+      "fetchedAt": "2026-10-18T16:07:24.405+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-18T15:56:19.546+08:00"
+      "lastAttemptAt": "2026-10-18T16:07:24.458+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
-          "resetAt": "2026-10-18T18:50:00.223+08:00"
+          "usedPct": 20,
+          "resetAt": "2026-10-18T18:50:00.326+08:00"
         },
         {
           "name": "7天",
           "usedPct": 84,
-          "resetAt": "2026-10-18T20:00:00.223+08:00"
+          "resetAt": "2026-10-18T20:00:00.327+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:19.568+08:00",
+      "fetchedAt": "2026-10-18T16:07:24.490+08:00",
       "error": null
     }
   },
