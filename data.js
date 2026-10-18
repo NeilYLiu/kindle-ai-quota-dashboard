@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T00:13:37.166+08:00",
+  "updatedAt": "2026-10-19T00:25:17.052+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-10-19T00:13:02.558+08:00",
-    "fetchedAt": "2026-10-19T00:13:37.166+08:00",
+    "observedAt": "2026-10-19T00:24:43.390+08:00",
+    "fetchedAt": "2026-10-19T00:25:17.052+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T00:13:05.436+08:00"
+      "lastAttemptAt": "2026-10-19T00:24:45.507+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-18T23:49:50.978+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T00:13:06.940+08:00"
+      "lastAttemptAt": "2026-10-19T00:24:46.956+08:00"
     },
     "claude84": {
       "ok": true,
@@ -77,7 +77,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T00:13:07.068+08:00"
+      "lastAttemptAt": "2026-10-19T00:24:47.035+08:00"
     },
     "claude72": {
       "ok": true,
@@ -86,15 +86,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T05:00:00.346+08:00"
+          "resetAt": "2026-10-19T05:00:00.453+08:00"
         },
         {
           "name": "7天",
           "usedPct": 0,
-          "resetAt": "2026-10-25T20:00:00.346+08:00"
+          "resetAt": "2026-10-25T20:00:00.453+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T00:13:07.286+08:00",
+      "fetchedAt": "2026-10-19T00:24:47.267+08:00",
       "error": null
     }
   },
