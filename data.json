@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:35:48.301+08:00",
+  "updatedAt": "2026-10-20T03:49:19.042+08:00",
   "weather": {
     "ok": true,
     "description": "薄雾",
@@ -10,8 +10,8 @@
     "windKph": 4,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-10-20T03:35:10.906+08:00",
-    "fetchedAt": "2026-10-20T03:35:48.301+08:00",
+    "observedAt": "2026-10-20T03:48:35.951+08:00",
+    "fetchedAt": "2026-10-20T03:49:19.042+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T03:35:16.195+08:00"
+      "lastAttemptAt": "2026-10-20T03:48:45.432+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@
       "fetchedAt": "2026-10-19T23:51:05.646+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T03:35:17.929+08:00"
+      "lastAttemptAt": "2026-10-20T03:48:48.911+08:00"
     },
     "claude84": {
       "ok": true,
@@ -75,9 +75,9 @@
         }
       ],
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
-      "error": "用量接口返回 HTTP 429",
+      "error": "用量接口返回 HTTP 403",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T03:35:18.181+08:00"
+      "lastAttemptAt": "2026-10-20T03:48:48.918+08:00"
     },
     "claude72": {
       "ok": true,
@@ -91,10 +91,10 @@
         {
           "name": "7天",
           "usedPct": 30,
-          "resetAt": "2026-10-25T20:00:00.185+08:00"
+          "resetAt": "2026-10-25T20:00:00.068+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T03:35:18.684+08:00",
+      "fetchedAt": "2026-10-20T03:48:49.092+08:00",
       "error": null
     }
   },
