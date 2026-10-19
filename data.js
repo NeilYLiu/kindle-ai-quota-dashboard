@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T18:15:12.309+08:00",
+  "updatedAt": "2026-10-19T18:28:36.090+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东风",
     "place": "Shanghaishih",
-    "observedAt": "2026-10-19T18:14:34.961+08:00",
-    "fetchedAt": "2026-10-19T18:15:12.312+08:00",
+    "observedAt": "2026-10-19T18:27:56.916+08:00",
+    "fetchedAt": "2026-10-19T18:28:36.091+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T18:14:39.769+08:00"
+      "lastAttemptAt": "2026-10-19T18:28:04.188+08:00"
     },
     "codex": {
       "ok": true,
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-19T17:37:35.335+08:00",
       "error": "Codex 额度采集失败（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T18:14:41.969+08:00"
+      "lastAttemptAt": "2026-10-19T18:28:05.722+08:00"
     },
     "claude84": {
       "ok": true,
@@ -77,7 +77,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T18:14:42.282+08:00"
+      "lastAttemptAt": "2026-10-19T18:28:05.983+08:00"
     },
     "claude72": {
       "ok": true,
@@ -85,16 +85,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
-          "resetAt": "2026-10-19T21:20:00.095+08:00"
+          "usedPct": 14,
+          "resetAt": "2026-10-19T21:20:00.110+08:00"
         },
         {
           "name": "7天",
           "usedPct": 26,
-          "resetAt": "2026-10-25T20:00:00.095+08:00"
+          "resetAt": "2026-10-25T20:00:00.110+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T18:14:42.572+08:00",
+      "fetchedAt": "2026-10-19T18:28:06.746+08:00",
       "error": null
     }
   },
