@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T14:40:08.549+08:00",
+  "updatedAt": "2026-10-19T14:51:18.412+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 8,
     "windDir": "东风",
     "place": "Pootung",
-    "observedAt": "2026-10-19T14:39:58.099+08:00",
-    "fetchedAt": "2026-10-19T14:40:08.550+08:00",
+    "observedAt": "2026-10-19T14:50:45.426+08:00",
+    "fetchedAt": "2026-10-19T14:51:18.412+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T14:39:58.882+08:00"
+      "lastAttemptAt": "2026-10-19T14:50:48.270+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T04:41:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T14:39:59.097+08:00",
+      "fetchedAt": "2026-10-19T14:50:48.538+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-19T14:39:59.102+08:00"
+      "lastAttemptAt": "2026-10-19T14:50:48.568+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 32,
-          "resetAt": "2026-10-19T16:19:59.839+08:00"
+          "usedPct": 34,
+          "resetAt": "2026-10-19T16:20:00.397+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 18,
-          "resetAt": "2026-10-25T19:59:59.839+08:00"
+          "usedPct": 19,
+          "resetAt": "2026-10-25T20:00:00.397+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T14:39:59.112+08:00",
+      "fetchedAt": "2026-10-19T14:50:48.661+08:00",
       "error": null
     }
   },
