@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T22:33:33.653+08:00",
+  "updatedAt": "2026-10-20T22:43:41.575+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17,
     "windDir": "西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-20T22:33:32.053+08:00",
-    "fetchedAt": "2026-10-20T22:33:33.653+08:00",
+    "observedAt": "2026-10-20T22:43:39.929+08:00",
+    "fetchedAt": "2026-10-20T22:43:41.575+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T22:33:32.088+08:00"
+      "lastAttemptAt": "2026-10-20T22:43:39.972+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:33:32.109+08:00",
+      "fetchedAt": "2026-10-20T22:43:39.994+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T22:33:32.111+08:00"
+      "lastAttemptAt": "2026-10-20T22:43:39.996+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
-          "resetAt": "2026-10-21T02:50:00.501+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-10-21T02:50:00.479+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 54,
-          "resetAt": "2026-10-25T20:00:00.501+08:00"
+          "usedPct": 55,
+          "resetAt": "2026-10-25T20:00:00.479+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:33:32.112+08:00",
+      "fetchedAt": "2026-10-20T22:43:39.997+08:00",
       "error": null
     }
   },
