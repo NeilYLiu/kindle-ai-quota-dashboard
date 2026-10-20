@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T22:03:09.927+08:00",
+  "updatedAt": "2026-10-20T22:13:17.213+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17,
     "windDir": "西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-20T22:03:07.867+08:00",
-    "fetchedAt": "2026-10-20T22:03:09.927+08:00",
+    "observedAt": "2026-10-20T22:13:15.601+08:00",
+    "fetchedAt": "2026-10-20T22:13:17.213+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T22:03:07.911+08:00"
+      "lastAttemptAt": "2026-10-20T22:13:15.643+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:03:07.937+08:00",
+      "fetchedAt": "2026-10-20T22:13:15.668+08:00",
       "error": null
     },
     "claude84": {
@@ -73,9 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
-      "error": "用量接口返回 HTTP 403",
+      "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T22:03:07.939+08:00"
+      "lastAttemptAt": "2026-10-20T22:13:15.669+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
-          "resetAt": "2026-10-21T02:49:59.627+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-21T02:49:59.609+08:00"
         },
         {
           "name": "7天",
           "usedPct": 54,
-          "resetAt": "2026-10-25T19:59:59.627+08:00"
+          "resetAt": "2026-10-25T19:59:59.609+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:03:07.940+08:00",
+      "fetchedAt": "2026-10-20T22:13:15.670+08:00",
       "error": null
     }
   },
