@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T17:49:43.588+08:00",
+  "updatedAt": "2026-10-20T17:59:52.829+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 13,
     "windDir": "北西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-20T17:49:41.649+08:00",
-    "fetchedAt": "2026-10-20T17:49:43.588+08:00",
+    "observedAt": "2026-10-20T17:59:50.702+08:00",
+    "fetchedAt": "2026-10-20T17:59:52.830+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T17:49:41.713+08:00"
+      "lastAttemptAt": "2026-10-20T17:59:50.768+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T17:49:41.748+08:00",
+      "fetchedAt": "2026-10-20T17:59:50.798+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T17:49:41.750+08:00"
+      "lastAttemptAt": "2026-10-20T17:59:50.800+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
-          "resetAt": "2026-10-20T21:49:59.847+08:00"
+          "usedPct": 8,
+          "resetAt": "2026-10-20T21:49:59.563+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 47,
-          "resetAt": "2026-10-25T19:59:59.847+08:00"
+          "usedPct": 48,
+          "resetAt": "2026-10-25T19:59:59.563+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T17:49:41.752+08:00",
+      "fetchedAt": "2026-10-20T17:59:50.802+08:00",
       "error": null
     }
   },
