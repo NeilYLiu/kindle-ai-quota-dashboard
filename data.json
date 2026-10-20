@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T09:43:52.181+08:00",
+  "updatedAt": "2026-10-20T10:34:05.958+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
     "iconKey": "cloudy",
-    "tempC": 24,
-    "feelsLikeC": 27,
-    "humidity": 88,
+    "tempC": 25,
+    "feelsLikeC": 28,
+    "humidity": 83,
     "windKph": 5,
-    "windDir": "西西北风",
+    "windDir": "西风",
     "place": "Pootung",
-    "observedAt": "2026-10-20T09:29:22.891+08:00",
-    "fetchedAt": "2026-10-20T09:43:52.181+08:00",
+    "observedAt": "2026-10-20T10:33:32.047+08:00",
+    "fetchedAt": "2026-10-20T10:34:05.958+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T09:43:15.871+08:00"
+      "lastAttemptAt": "2026-10-20T10:33:40.889+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,10 +54,8 @@
           "resetAt": "2026-10-25T04:41:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T07:50:15.891+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-20T09:43:21.590+08:00"
+      "fetchedAt": "2026-10-20T10:33:44.350+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -75,9 +73,9 @@
         }
       ],
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
-      "error": "用量接口返回 HTTP 429",
+      "error": "用量接口返回 HTTP 403",
       "stale": true,
-      "lastAttemptAt": "2026-10-20T09:43:22.214+08:00"
+      "lastAttemptAt": "2026-10-20T10:33:44.728+08:00"
     },
     "claude72": {
       "ok": true,
@@ -85,16 +83,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
-          "resetAt": "2026-10-20T11:50:00.230+08:00"
+          "usedPct": 11,
+          "resetAt": "2026-10-20T11:50:00.220+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 32,
-          "resetAt": "2026-10-25T20:00:00.230+08:00"
+          "usedPct": 33,
+          "resetAt": "2026-10-25T20:00:00.220+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T09:43:22.600+08:00",
+      "fetchedAt": "2026-10-20T10:33:45.084+08:00",
       "error": null
     }
   },
