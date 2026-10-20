@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T00:25:07.290+08:00",
+  "updatedAt": "2026-10-21T00:35:14.886+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 15,
     "windDir": "北西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-21T00:25:05.868+08:00",
-    "fetchedAt": "2026-10-21T00:25:07.290+08:00",
+    "observedAt": "2026-10-21T00:35:13.360+08:00",
+    "fetchedAt": "2026-10-21T00:35:14.886+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-21T00:25:05.905+08:00"
+      "lastAttemptAt": "2026-10-21T00:35:13.402+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T00:25:05.922+08:00",
+      "fetchedAt": "2026-10-21T00:35:13.427+08:00",
       "error": null
     },
     "claude84": {
@@ -73,9 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
-      "error": "用量接口返回 HTTP 429",
+      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-21T00:25:05.923+08:00"
+      "lastAttemptAt": "2026-10-21T00:35:13.429+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,16 +83,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
-          "resetAt": "2026-10-21T02:50:00.252+08:00"
+          "usedPct": 18,
+          "resetAt": "2026-10-21T02:50:00.125+08:00"
         },
         {
           "name": "7天",
           "usedPct": 58,
-          "resetAt": "2026-10-25T20:00:00.252+08:00"
+          "resetAt": "2026-10-25T20:00:00.125+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T00:25:05.924+08:00",
+      "fetchedAt": "2026-10-21T00:35:13.430+08:00",
       "error": null
     }
   },
