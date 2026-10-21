@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T06:18:11.422+08:00",
+  "updatedAt": "2026-10-22T06:28:19.253+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-22T06:18:09.686+08:00",
-    "fetchedAt": "2026-10-22T06:18:11.422+08:00",
+    "observedAt": "2026-10-22T06:28:17.631+08:00",
+    "fetchedAt": "2026-10-22T06:28:19.253+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T06:18:09.726+08:00"
+      "lastAttemptAt": "2026-10-22T06:28:17.669+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T06:18:09.747+08:00",
+      "fetchedAt": "2026-10-22T06:28:17.688+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T06:18:09.748+08:00"
+      "lastAttemptAt": "2026-10-22T06:28:17.689+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,18 +84,16 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": null
+          "resetAt": "2026-10-22T11:19:59.917+08:00"
         },
         {
           "name": "7天",
           "usedPct": 68,
-          "resetAt": "2026-10-25T19:59:59.914+08:00"
+          "resetAt": "2026-10-25T19:59:59.917+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T05:47:47.023+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-10-22T06:18:09.749+08:00"
+      "fetchedAt": "2026-10-22T06:28:17.690+08:00",
+      "error": null
     }
   },
   "providerTypes": {
