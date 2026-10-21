@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T23:33:04.638+08:00",
+  "updatedAt": "2026-10-21T23:43:12.267+08:00",
   "weather": {
     "ok": true,
     "description": "局部多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 14,
     "windDir": "北东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-21T23:33:02.822+08:00",
-    "fetchedAt": "2026-10-21T23:33:04.638+08:00",
+    "observedAt": "2026-10-21T23:43:10.503+08:00",
+    "fetchedAt": "2026-10-21T23:43:12.267+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-21T23:33:02.866+08:00"
+      "lastAttemptAt": "2026-10-21T23:43:10.537+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 65,
+          "usedPct": 66,
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T23:33:02.885+08:00",
+      "fetchedAt": "2026-10-21T23:43:10.553+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-21T23:33:02.886+08:00"
+      "lastAttemptAt": "2026-10-21T23:43:10.555+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,15 +84,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 3,
-          "resetAt": "2026-10-22T02:40:00.496+08:00"
+          "resetAt": "2026-10-22T02:40:00.444+08:00"
         },
         {
           "name": "7天",
           "usedPct": 68,
-          "resetAt": "2026-10-25T20:00:00.496+08:00"
+          "resetAt": "2026-10-25T20:00:00.444+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T23:33:02.887+08:00",
+      "fetchedAt": "2026-10-21T23:43:10.555+08:00",
       "error": null
     }
   },
