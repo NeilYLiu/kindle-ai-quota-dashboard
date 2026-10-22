@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T15:05:40.540+08:00",
+  "updatedAt": "2026-10-22T15:15:50.669+08:00",
   "weather": {
     "ok": true,
     "description": "局部多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17,
     "windDir": "东东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-22T15:05:38.921+08:00",
-    "fetchedAt": "2026-10-22T15:05:40.540+08:00",
+    "observedAt": "2026-10-22T15:15:46.516+08:00",
+    "fetchedAt": "2026-10-22T15:15:50.669+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T15:05:38.965+08:00"
+      "lastAttemptAt": "2026-10-22T15:15:46.560+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T15:05:38.987+08:00",
+      "fetchedAt": "2026-10-22T15:15:46.575+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T15:05:38.988+08:00"
+      "lastAttemptAt": "2026-10-22T15:15:46.577+08:00"
     },
     "claude72": {
       "ok": true,
@@ -95,7 +95,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-22T13:33:40.729+08:00",
       "error": "SSH 认证被拒（检查账号与密钥）",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T15:05:38.989+08:00"
+      "lastAttemptAt": "2026-10-22T15:15:46.578+08:00"
     }
   },
   "providerTypes": {
