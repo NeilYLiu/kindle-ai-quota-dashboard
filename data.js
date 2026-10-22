@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T10:41:32.517+08:00",
+  "updatedAt": "2026-10-22T10:51:39.962+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-22T10:41:30.626+08:00",
-    "fetchedAt": "2026-10-22T10:41:32.517+08:00",
+    "observedAt": "2026-10-22T10:51:38.409+08:00",
+    "fetchedAt": "2026-10-22T10:51:39.962+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T10:41:30.672+08:00"
+      "lastAttemptAt": "2026-10-22T10:51:38.472+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T10:41:30.690+08:00",
+      "fetchedAt": "2026-10-22T10:51:38.493+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-22T10:41:30.692+08:00"
+      "lastAttemptAt": "2026-10-22T10:51:38.495+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,15 +84,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 9,
-          "resetAt": "2026-10-22T11:19:59.848+08:00"
+          "resetAt": "2026-10-22T11:20:00.409+08:00"
         },
         {
           "name": "7天",
           "usedPct": 70,
-          "resetAt": "2026-10-25T19:59:59.848+08:00"
+          "resetAt": "2026-10-25T20:00:00.409+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T10:41:30.692+08:00",
+      "fetchedAt": "2026-10-22T10:51:38.496+08:00",
       "error": null
     }
   },
