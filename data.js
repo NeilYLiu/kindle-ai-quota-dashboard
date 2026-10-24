@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T19:29:24.731+08:00",
+  "updatedAt": "2026-10-24T19:39:31.998+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 20,
     "windDir": "北东北风",
     "place": "Hongkew",
-    "observedAt": "2026-10-24T19:29:23.159+08:00",
-    "fetchedAt": "2026-10-24T19:29:24.731+08:00",
+    "observedAt": "2026-10-24T19:39:30.435+08:00",
+    "fetchedAt": "2026-10-24T19:39:31.998+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-24T19:29:23.203+08:00"
+      "lastAttemptAt": "2026-10-24T19:39:30.478+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 63,
+          "usedPct": 64,
           "resetAt": "2026-10-31T01:43:21.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T19:29:23.227+08:00",
+      "fetchedAt": "2026-10-24T19:39:30.500+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-24T19:29:23.229+08:00"
+      "lastAttemptAt": "2026-10-24T19:39:30.501+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,15 +84,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-24T23:19:59.603+08:00"
+          "resetAt": "2026-10-24T23:20:00.433+08:00"
         },
         {
           "name": "7天",
           "usedPct": 91,
-          "resetAt": "2026-10-25T19:59:59.603+08:00"
+          "resetAt": "2026-10-25T20:00:00.433+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T19:29:23.230+08:00",
+      "fetchedAt": "2026-10-24T19:39:30.503+08:00",
       "error": null
     }
   },
