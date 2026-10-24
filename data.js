@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T16:26:32.075+08:00",
+  "updatedAt": "2026-10-24T16:37:10.675+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
     "iconKey": "rain",
     "tempC": 20,
     "feelsLikeC": 20,
-    "humidity": 87,
-    "windKph": 20,
+    "humidity": 88,
+    "windKph": 18,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-10-24T15:53:41.386+08:00",
-    "fetchedAt": "2026-10-24T16:26:32.075+08:00",
+    "observedAt": "2026-10-24T16:37:08.763+08:00",
+    "fetchedAt": "2026-10-24T16:37:10.675+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-24T16:26:26.663+08:00"
+      "lastAttemptAt": "2026-10-24T16:37:08.804+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,14 +50,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 34,
           "resetAt": "2026-10-31T01:43:21.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T16:15:00.300+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-24T16:26:26.679+08:00"
+      "fetchedAt": "2026-10-24T16:37:08.823+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -77,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-24T16:26:26.680+08:00"
+      "lastAttemptAt": "2026-10-24T16:37:08.824+08:00"
     },
     "claude72": {
       "ok": true,
@@ -86,18 +84,16 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 3,
-          "resetAt": "2026-10-24T18:19:59.900+08:00"
+          "resetAt": "2026-10-24T18:19:59.801+08:00"
         },
         {
           "name": "7天",
           "usedPct": 90,
-          "resetAt": "2026-10-25T19:59:59.900+08:00"
+          "resetAt": "2026-10-25T19:59:59.801+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T16:15:00.302+08:00",
-      "error": "请求用量接口失败（网络或超时）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-24T16:26:26.681+08:00"
+      "fetchedAt": "2026-10-24T16:37:08.825+08:00",
+      "error": null
     }
   },
   "providerTypes": {
