@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T05:08:19.617+08:00",
+  "updatedAt": "2026-10-28T05:18:27.227+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16,
-    "feelsLikeC": 14,
-    "humidity": 60,
-    "windKph": 9,
-    "windDir": "北风",
+    "tempC": 14,
+    "feelsLikeC": 12,
+    "humidity": 74,
+    "windKph": 8,
+    "windDir": "北西北风",
     "place": "Pootung",
-    "observedAt": "2026-10-28T05:08:17.798+08:00",
-    "fetchedAt": "2026-10-28T05:08:19.617+08:00",
+    "observedAt": "2026-10-28T05:18:25.563+08:00",
+    "fetchedAt": "2026-10-28T05:18:27.228+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-28T05:08:17.834+08:00"
+      "lastAttemptAt": "2026-10-28T05:18:25.596+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@
           "resetAt": "2026-11-02T14:09:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T05:08:17.856+08:00",
+      "fetchedAt": "2026-10-28T05:18:25.613+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-28T05:08:17.857+08:00"
+      "lastAttemptAt": "2026-10-28T05:18:25.614+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,15 +84,15 @@
         {
           "name": "5小时",
           "usedPct": 1,
-          "resetAt": "2026-10-28T07:50:00.043+08:00"
+          "resetAt": "2026-10-28T07:49:59.932+08:00"
         },
         {
           "name": "7天",
           "usedPct": 59,
-          "resetAt": "2026-11-01T20:00:00.043+08:00"
+          "resetAt": "2026-11-01T19:59:59.932+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T05:08:17.858+08:00",
+      "fetchedAt": "2026-10-28T05:18:25.615+08:00",
       "error": null
     }
   },
