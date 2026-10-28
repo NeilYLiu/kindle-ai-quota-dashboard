@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T02:08:08.427+08:00",
+  "updatedAt": "2026-10-29T02:18:16.815+08:00",
   "weather": {
     "ok": true,
-    "description": "Smoky haze",
-    "iconKey": "rain",
-    "tempC": 17,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 16,
     "feelsLikeC": 15,
-    "humidity": 67,
-    "windKph": 10,
+    "humidity": 73,
+    "windKph": 7,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-29T02:08:06.104+08:00",
-    "fetchedAt": "2026-10-29T02:08:08.427+08:00",
+    "observedAt": "2026-10-29T02:18:14.636+08:00",
+    "fetchedAt": "2026-10-29T02:18:16.815+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T02:08:06.222+08:00"
+      "lastAttemptAt": "2026-10-29T02:18:14.713+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@
           "resetAt": "2026-11-04T14:36:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T02:08:06.286+08:00",
+      "fetchedAt": "2026-10-29T02:18:14.763+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T02:08:06.291+08:00"
+      "lastAttemptAt": "2026-10-29T02:18:14.767+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,15 +84,15 @@
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-10-29T06:00:00.213+08:00"
+          "resetAt": "2026-10-29T06:00:00.372+08:00"
         },
         {
           "name": "7天",
           "usedPct": 74,
-          "resetAt": "2026-11-01T20:00:00.213+08:00"
+          "resetAt": "2026-11-01T20:00:00.372+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T02:08:06.292+08:00",
+      "fetchedAt": "2026-10-29T02:18:14.769+08:00",
       "error": null
     }
   },
