@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T01:37:42.532+08:00",
+  "updatedAt": "2026-10-29T01:47:50.962+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 10,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-29T01:37:40.248+08:00",
-    "fetchedAt": "2026-10-29T01:37:42.532+08:00",
+    "observedAt": "2026-10-29T01:47:48.775+08:00",
+    "fetchedAt": "2026-10-29T01:47:50.962+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T01:37:40.297+08:00"
+      "lastAttemptAt": "2026-10-29T01:47:48.823+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 60,
+          "usedPct": 62,
           "resetAt": "2026-11-04T14:36:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T01:37:40.321+08:00",
+      "fetchedAt": "2026-10-29T01:47:48.851+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T01:37:40.324+08:00"
+      "lastAttemptAt": "2026-10-29T01:47:48.854+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,19 +83,17 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
-          "resetAt": "2026-10-29T00:39:59.687+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-29T06:00:00.169+08:00"
         },
         {
           "name": "7天",
-          "usedPct": 73,
-          "resetAt": "2026-11-01T19:59:59.687+08:00"
+          "usedPct": 74,
+          "resetAt": "2026-11-01T20:00:00.169+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T23:35:49.177+08:00",
-      "error": "用量接口返回 HTTP 429",
-      "stale": true,
-      "lastAttemptAt": "2026-10-29T01:37:40.326+08:00"
+      "fetchedAt": "2026-10-29T01:47:48.855+08:00",
+      "error": null
     }
   },
   "providerTypes": {
