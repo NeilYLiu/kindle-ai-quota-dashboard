@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T05:10:54.016+08:00",
+  "updatedAt": "2026-10-29T05:21:02.852+08:00",
   "weather": {
     "ok": true,
-    "description": "局部多云",
-    "iconKey": "cloudy",
-    "tempC": 17,
+    "description": "Smoky haze",
+    "iconKey": "rain",
+    "tempC": 16,
     "feelsLikeC": 16,
-    "humidity": 70,
-    "windKph": 9,
-    "windDir": "东南风",
+    "humidity": 77,
+    "windKph": 6,
+    "windDir": "南东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-29T05:10:51.731+08:00",
-    "fetchedAt": "2026-10-29T05:10:54.016+08:00",
+    "observedAt": "2026-10-29T05:21:01.003+08:00",
+    "fetchedAt": "2026-10-29T05:21:02.852+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T05:10:51.844+08:00"
+      "lastAttemptAt": "2026-10-29T05:21:01.055+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@
           "resetAt": "2026-11-04T14:36:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T05:10:51.903+08:00",
+      "fetchedAt": "2026-10-29T05:21:01.076+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T05:10:51.907+08:00"
+      "lastAttemptAt": "2026-10-29T05:21:01.079+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,15 +84,15 @@
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-10-29T06:00:00.382+08:00"
+          "resetAt": "2026-10-29T05:59:59.748+08:00"
         },
         {
           "name": "7天",
           "usedPct": 74,
-          "resetAt": "2026-11-01T20:00:00.382+08:00"
+          "resetAt": "2026-11-01T19:59:59.748+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T05:10:51.910+08:00",
+      "fetchedAt": "2026-10-29T05:21:01.081+08:00",
       "error": null
     }
   },
