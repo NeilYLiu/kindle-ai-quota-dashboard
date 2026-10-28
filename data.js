@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T00:36:47.987+08:00",
+  "updatedAt": "2026-10-29T00:46:56.310+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
     "iconKey": "rain",
-    "tempC": 16,
-    "feelsLikeC": 14,
-    "humidity": 69,
-    "windKph": 9,
+    "tempC": 17,
+    "feelsLikeC": 15,
+    "humidity": 67,
+    "windKph": 10,
     "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-10-29T00:36:42.185+08:00",
-    "fetchedAt": "2026-10-29T00:36:47.987+08:00",
+    "observedAt": "2026-10-29T00:46:54.362+08:00",
+    "fetchedAt": "2026-10-29T00:46:56.311+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T00:36:42.244+08:00"
+      "lastAttemptAt": "2026-10-29T00:46:54.409+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,14 +50,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 55,
+          "usedPct": 57,
           "resetAt": "2026-11-04T14:36:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T00:26:33.830+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-10-29T00:36:42.274+08:00"
+      "fetchedAt": "2026-10-29T00:46:54.434+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -77,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T00:36:42.278+08:00"
+      "lastAttemptAt": "2026-10-29T00:46:54.437+08:00"
     },
     "claude72": {
       "ok": true,
@@ -97,7 +95,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-28T23:35:49.177+08:00",
       "error": "用量接口返回 HTTP 429",
       "stale": true,
-      "lastAttemptAt": "2026-10-29T00:36:42.279+08:00"
+      "lastAttemptAt": "2026-10-29T00:46:54.438+08:00"
     }
   },
   "providerTypes": {
