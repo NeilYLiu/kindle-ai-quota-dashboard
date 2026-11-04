@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T23:05:45.713+08:00",
+  "updatedAt": "2026-11-04T23:15:53.114+08:00",
   "weather": {
     "ok": true,
     "description": "薄雾",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 10,
     "windDir": "西西南风",
     "place": "Pootung",
-    "observedAt": "2026-11-04T23:05:40.486+08:00",
-    "fetchedAt": "2026-11-04T23:05:45.713+08:00",
+    "observedAt": "2026-11-04T23:15:51.723+08:00",
+    "fetchedAt": "2026-11-04T23:15:53.114+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-04T23:05:40.517+08:00"
+      "lastAttemptAt": "2026-11-04T23:15:51.754+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,14 +50,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-11-11T14:46:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:55:33.512+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-11-04T23:05:40.538+08:00"
+      "fetchedAt": "2026-11-04T23:15:51.775+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -77,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-04T23:05:40.539+08:00"
+      "lastAttemptAt": "2026-11-04T23:15:51.776+08:00"
     },
     "claude72": {
       "ok": true,
@@ -86,10 +84,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 71,
-          "resetAt": "2026-11-08T19:59:59.562+08:00"
+          "resetAt": "2026-11-08T20:00:00.220+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T23:05:40.540+08:00",
+      "fetchedAt": "2026-11-04T23:15:51.777+08:00",
       "error": null
     }
   },
