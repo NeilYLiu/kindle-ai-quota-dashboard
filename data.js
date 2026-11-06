@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T12:28:34.919+08:00",
+  "updatedAt": "2026-11-06T12:38:42.682+08:00",
   "weather": {
     "ok": true,
     "description": "阴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 5,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-11-06T12:28:29.521+08:00",
-    "fetchedAt": "2026-11-06T12:28:34.919+08:00",
+    "observedAt": "2026-11-06T12:38:41.114+08:00",
+    "fetchedAt": "2026-11-06T12:38:42.683+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-06T12:28:29.570+08:00"
+      "lastAttemptAt": "2026-11-06T12:38:41.163+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,14 +50,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 64,
+          "usedPct": 65,
           "resetAt": "2026-11-11T14:46:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T12:18:19.678+08:00",
-      "error": "Codex 额度采集失败（详情见本机 stderr）",
-      "stale": true,
-      "lastAttemptAt": "2026-11-06T12:28:29.598+08:00"
+      "fetchedAt": "2026-11-06T12:38:41.192+08:00",
+      "error": null
     },
     "claude84": {
       "ok": true,
@@ -77,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-06T12:28:29.600+08:00"
+      "lastAttemptAt": "2026-11-06T12:38:41.193+08:00"
     },
     "claude72": {
       "ok": true,
@@ -86,10 +84,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 89,
-          "resetAt": "2026-11-08T20:00:00.481+08:00"
+          "resetAt": "2026-11-08T19:59:59.556+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T12:28:29.601+08:00",
+      "fetchedAt": "2026-11-06T12:38:41.194+08:00",
       "error": null
     }
   },
