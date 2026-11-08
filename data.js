@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T13:00:13.506+08:00",
+  "updatedAt": "2026-11-08T13:10:21.560+08:00",
   "weather": {
     "ok": true,
     "description": "局部阵雨",
     "iconKey": "rain",
-    "tempC": 18,
-    "feelsLikeC": 16,
-    "humidity": 76,
-    "windKph": 14,
-    "windDir": "南东南风",
+    "tempC": 17,
+    "feelsLikeC": 17,
+    "humidity": 84,
+    "windKph": 8,
+    "windDir": "东南风",
     "place": "Pootung",
-    "observedAt": "2026-11-08T13:00:11.864+08:00",
-    "fetchedAt": "2026-11-08T13:00:13.506+08:00",
+    "observedAt": "2026-11-08T13:10:19.780+08:00",
+    "fetchedAt": "2026-11-08T13:10:21.560+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-08T13:00:11.914+08:00"
+      "lastAttemptAt": "2026-11-08T13:10:19.822+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:28:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T13:00:11.934+08:00",
+      "fetchedAt": "2026-11-08T13:10:19.847+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-08T13:00:11.935+08:00"
+      "lastAttemptAt": "2026-11-08T13:10:19.848+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,13 +84,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 98,
-          "resetAt": "2026-11-08T19:59:59.927+08:00"
+          "resetAt": "2026-11-08T20:00:00.332+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T12:09:33.488+08:00",
-      "error": "凭据已过期，需要在这台机器上重新登录 Claude",
-      "stale": true,
-      "lastAttemptAt": "2026-11-08T13:00:11.936+08:00"
+      "fetchedAt": "2026-11-08T13:10:19.849+08:00",
+      "error": null
     }
   },
   "providerTypes": {
