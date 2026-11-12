@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T16:02:57.989+08:00",
+  "updatedAt": "2026-11-12T16:13:07.415+08:00",
   "weather": {
     "ok": true,
-    "description": "Smoky haze",
+    "description": "局部阵雨",
     "iconKey": "rain",
-    "tempC": 18,
-    "feelsLikeC": 18,
-    "humidity": 76,
-    "windKph": 5,
-    "windDir": "西西北风",
-    "place": "Pootung",
-    "observedAt": "2026-11-12T16:02:55.592+08:00",
-    "fetchedAt": "2026-11-12T16:02:57.990+08:00",
+    "tempC": 17,
+    "feelsLikeC": 17,
+    "humidity": 77,
+    "windKph": 6,
+    "windDir": "西北风",
+    "place": "Hongkew",
+    "observedAt": "2026-11-12T16:13:05.130+08:00",
+    "fetchedAt": "2026-11-12T16:13:07.415+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-12T16:02:55.689+08:00"
+      "lastAttemptAt": "2026-11-12T16:13:05.171+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:28:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:02:55.710+08:00",
+      "fetchedAt": "2026-11-12T16:13:05.197+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-12T16:02:55.711+08:00"
+      "lastAttemptAt": "2026-11-12T16:13:05.199+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,11 +83,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "7天",
-          "usedPct": 54,
-          "resetAt": "2026-11-15T20:00:00.319+08:00"
+          "usedPct": 55,
+          "resetAt": "2026-11-15T20:00:00.358+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:02:55.712+08:00",
+      "fetchedAt": "2026-11-12T16:13:05.200+08:00",
       "error": null
     }
   },
