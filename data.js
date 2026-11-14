@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T22:10:51.748+08:00",
+  "updatedAt": "2026-11-14T22:21:00.001+08:00",
   "weather": {
     "ok": true,
-    "description": "毛毛雨",
+    "description": "局部阵雨",
     "iconKey": "rain",
-    "tempC": 17,
-    "feelsLikeC": 17,
-    "humidity": 94,
+    "tempC": 16,
+    "feelsLikeC": 16,
+    "humidity": 93,
     "windKph": 10,
     "windDir": "北风",
     "place": "Pootung",
-    "observedAt": "2026-11-14T22:10:49.402+08:00",
-    "fetchedAt": "2026-11-14T22:10:51.748+08:00",
+    "observedAt": "2026-11-14T22:20:57.621+08:00",
+    "fetchedAt": "2026-11-14T22:21:00.001+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-14T22:10:49.450+08:00"
+      "lastAttemptAt": "2026-11-14T22:20:57.671+08:00"
     },
     "codex": {
       "ok": true,
@@ -54,7 +54,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T07:53:53.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T22:10:49.474+08:00",
+      "fetchedAt": "2026-11-14T22:20:57.692+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-14T22:10:49.475+08:00"
+      "lastAttemptAt": "2026-11-14T22:20:57.693+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,13 +84,11 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 57,
-          "resetAt": "2026-11-15T20:00:00.234+08:00"
+          "resetAt": "2026-11-15T20:00:00.457+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T22:00:39.113+08:00",
-      "error": "请求用量接口失败（网络或超时）",
-      "stale": true,
-      "lastAttemptAt": "2026-11-14T22:10:49.476+08:00"
+      "fetchedAt": "2026-11-14T22:20:57.694+08:00",
+      "error": null
     }
   },
   "providerTypes": {
