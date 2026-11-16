@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T19:40:13.911+08:00",
+  "updatedAt": "2026-11-16T19:50:21.413+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
     "iconKey": "rain",
-    "tempC": 16,
-    "feelsLikeC": 14,
-    "humidity": 65,
+    "tempC": 15,
+    "feelsLikeC": 13,
+    "humidity": 68,
     "windKph": 9,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-11-16T19:40:12.586+08:00",
-    "fetchedAt": "2026-11-16T19:40:13.911+08:00",
+    "observedAt": "2026-11-16T19:50:19.719+08:00",
+    "fetchedAt": "2026-11-16T19:50:21.413+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-16T19:40:12.623+08:00"
+      "lastAttemptAt": "2026-11-16T19:50:19.760+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 59,
+          "usedPct": 60,
           "resetAt": "2026-11-20T07:53:53.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T19:40:12.645+08:00",
+      "fetchedAt": "2026-11-16T19:50:19.783+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-16T19:40:12.646+08:00"
+      "lastAttemptAt": "2026-11-16T19:50:19.785+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,11 +83,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "7天",
-          "usedPct": 33,
-          "resetAt": "2026-11-22T20:00:00.018+08:00"
+          "usedPct": 34,
+          "resetAt": "2026-11-22T20:00:00.403+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T19:40:12.647+08:00",
+      "fetchedAt": "2026-11-16T19:50:19.785+08:00",
       "error": null
     }
   },
