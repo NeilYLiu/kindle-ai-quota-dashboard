@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T19:19:47.509+08:00",
+  "updatedAt": "2026-11-16T19:29:58.272+08:00",
   "weather": {
     "ok": true,
     "description": "Smoky haze",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9,
     "windDir": "东北风",
     "place": "Pootung",
-    "observedAt": "2026-11-16T19:19:39.288+08:00",
-    "fetchedAt": "2026-11-16T19:19:47.509+08:00",
+    "observedAt": "2026-11-16T19:29:55.492+08:00",
+    "fetchedAt": "2026-11-16T19:29:58.272+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-16T19:19:39.321+08:00"
+      "lastAttemptAt": "2026-11-16T19:29:55.534+08:00"
     },
     "codex": {
       "ok": true,
@@ -50,11 +50,11 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "周",
-          "usedPct": 58,
+          "usedPct": 59,
           "resetAt": "2026-11-20T07:53:53.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T19:19:39.343+08:00",
+      "fetchedAt": "2026-11-16T19:29:55.557+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-16T19:19:39.345+08:00"
+      "lastAttemptAt": "2026-11-16T19:29:55.558+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,14 +83,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "7天",
-          "usedPct": 32,
-          "resetAt": "2026-11-22T20:00:00.343+08:00"
+          "usedPct": 33,
+          "resetAt": "2026-11-22T19:59:59.684+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T18:48:54.980+08:00",
-      "error": "SSH 连接超时（机器不在线或网络不通）",
-      "stale": true,
-      "lastAttemptAt": "2026-11-16T19:19:39.345+08:00"
+      "fetchedAt": "2026-11-16T19:29:55.559+08:00",
+      "error": null
     }
   },
   "providerTypes": {
