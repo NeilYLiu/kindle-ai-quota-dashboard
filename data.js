@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T13:42:14.385+08:00",
+  "updatedAt": "2026-11-24T13:52:26.401+08:00",
   "weather": {
     "ok": true,
     "description": "局部多云",
     "iconKey": "cloudy",
     "tempC": 12,
     "feelsLikeC": 8,
-    "humidity": 45,
+    "humidity": 41,
     "windKph": 18,
     "windDir": "北西北风",
-    "place": "Pootung",
-    "observedAt": "2026-11-24T13:42:12.484+08:00",
-    "fetchedAt": "2026-11-24T13:42:14.385+08:00",
+    "place": "Yangpu",
+    "observedAt": "2026-11-24T13:52:20.984+08:00",
+    "fetchedAt": "2026-11-24T13:52:26.401+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-24T13:42:12.526+08:00"
+      "lastAttemptAt": "2026-11-24T13:52:21.030+08:00"
     },
     "codex": {
       "ok": true,
@@ -55,7 +55,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-24T13:42:12.548+08:00",
-      "error": null
+      "error": "Codex 额度采集失败（详情见本机 stderr）",
+      "stale": true,
+      "lastAttemptAt": "2026-11-24T13:52:21.050+08:00"
     },
     "claude84": {
       "ok": true,
@@ -75,7 +77,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-24T13:42:12.549+08:00"
+      "lastAttemptAt": "2026-11-24T13:52:21.051+08:00"
     },
     "claude72": {
       "ok": true,
@@ -83,14 +85,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "7天",
-          "usedPct": 40,
-          "resetAt": "2026-11-29T20:00:00.151+08:00"
+          "usedPct": 42,
+          "resetAt": "2026-11-29T19:59:59.796+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T11:40:37.937+08:00",
-      "error": "用量接口返回 HTTP 429",
-      "stale": true,
-      "lastAttemptAt": "2026-11-24T13:42:12.550+08:00"
+      "fetchedAt": "2026-11-24T13:52:21.053+08:00",
+      "error": null
     }
   },
   "providerTypes": {
