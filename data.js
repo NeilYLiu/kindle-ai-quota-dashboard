@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T06:12:08.069+08:00",
+  "updatedAt": "2026-11-26T06:22:16.156+08:00",
   "weather": {
     "ok": true,
-    "description": "阴",
-    "iconKey": "cloudy",
+    "description": "Smoky haze",
+    "iconKey": "rain",
     "tempC": 11,
     "feelsLikeC": 9,
-    "humidity": 61,
-    "windKph": 8,
+    "humidity": 62,
+    "windKph": 9,
     "windDir": "南西南风",
-    "place": "Pootung",
-    "observedAt": "2026-11-26T06:12:06.632+08:00",
-    "fetchedAt": "2026-11-26T06:12:08.069+08:00",
+    "place": "Hongkew",
+    "observedAt": "2026-11-26T06:22:14.322+08:00",
+    "fetchedAt": "2026-11-26T06:22:16.156+08:00",
     "error": null
   },
   "quote": {
@@ -42,7 +42,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.704+08:00",
       "error": "钥匙串与凭据文件都不可用（详情见本机 stderr）",
       "stale": true,
-      "lastAttemptAt": "2026-11-26T06:12:06.669+08:00"
+      "lastAttemptAt": "2026-11-26T06:22:14.365+08:00"
     },
     "codex": {
       "ok": true,
@@ -51,10 +51,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 6,
-          "resetAt": "2026-12-02T03:51:15.000+08:00"
+          "resetAt": "2026-12-02T03:51:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T06:12:06.690+08:00",
+      "fetchedAt": "2026-11-26T06:22:14.389+08:00",
       "error": null
     },
     "claude84": {
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-10-10T20:45:20.778+08:00",
       "error": "凭据已过期，需要在这台机器上重新登录 Claude",
       "stale": true,
-      "lastAttemptAt": "2026-11-26T06:12:06.691+08:00"
+      "lastAttemptAt": "2026-11-26T06:22:14.391+08:00"
     },
     "claude72": {
       "ok": true,
@@ -84,10 +84,10 @@ window.DASH_DATA = {
         {
           "name": "7天",
           "usedPct": 55,
-          "resetAt": "2026-11-29T19:59:59.988+08:00"
+          "resetAt": "2026-11-29T20:00:00.040+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T06:12:06.692+08:00",
+      "fetchedAt": "2026-11-26T06:22:14.391+08:00",
       "error": null
     }
   },
